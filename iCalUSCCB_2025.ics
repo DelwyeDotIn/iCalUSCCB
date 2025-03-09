@@ -1,11 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Bun ICS//EN
+PRODID:-//YourOrg//BunICal//EN
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
 SUMMARY:      Wed    SOLEMNITY OF MARY, THE HOLY MOTHER OF GOD                    white
 The Octave Day of the Nativity of the Lord
 Solemnity        [Holyday of Obligation]
 Nm 6:22-27/Gal 4:4-7/Lk 2:16-21 (18)   Pss Prop
+UID:20250101-fuj74s84t4j@bun.example.com
 DTSTART:20250101T060000
 DTEND:20250101T060100
 END:VEVENT
@@ -14,6 +16,7 @@ SUMMARY:      Thu     Saints Basil the Great and Gregory Nazianzen,             
 Bishops and Doctors of the Church
 Memorial
 1 Jn 2:22-28/Jn 1:19-28 (205)   Pss I
+UID:20250102-5q8d5lztgkw@bun.example.com
 DTSTART:20250102T060000
 DTEND:20250102T060100
 END:VEVENT
@@ -21,6 +24,7 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Christmas Weekday                                                                              white/white
 [The Most Holy Name of Jesus]
 1 Jn 2:29—3:6/Jn 1:29-34 (206)
+UID:20250103-hu2zvobochr@bun.example.com
 DTSTART:20250103T060000
 DTEND:20250103T060100
 END:VEVENT
@@ -28,6 +32,7 @@ BEGIN:VEVENT
 SUMMARY:      Sat      USA: Saint Elizabeth Ann Seton, Religious                                                  white
 Memorial
 1 Jn 3:7-10/Jn 1:35-42 (207)
+UID:20250104-u78fdri04ad@bun.example.com
 DTSTART:20250104T060000
 DTEND:20250104T060100
 END:VEVENT
@@ -35,6 +40,7 @@ BEGIN:VEVENT
 SUMMARY:      SUN    USA: THE EPIPHANY OF THE LORD                                                      white
 Solemnity
 Is 60:1-6/Eph 3:2-3a, 5-6/Mt 2:1-12 (20)   Pss Prop
+UID:20250105-1nhs7m5iy3y@bun.example.com
 DTSTART:20250105T060000
 DTEND:20250105T060100
 END:VEVENT
@@ -42,6 +48,7 @@ BEGIN:VEVENT
 SUMMARY:      Mon    Christmas Weekday                                                                              white/white
 [USA: Saint André Bessette, Religious]
 1 Jn 3:22—4:6/Mt 4:12-17, 23-25 (212)   Pss II
+UID:20250106-fo6dvea7gmu@bun.example.com
 DTSTART:20250106T060000
 DTEND:20250106T060100
 END:VEVENT
@@ -49,30 +56,35 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Christmas Weekday                                                                              white/white
 [Saint Raymond of Penyafort, Priest]
 1 Jn 4:7-10/Mk 6:34-44 (213)
+UID:20250107-5upvy1uzomj@bun.example.com
 DTSTART:20250107T060000
 DTEND:20250107T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Christmas Weekday                                                                                        white
 1 Jn 4:11-18/Mk 6:45-52 (214)
+UID:20250108-tleatevcpv@bun.example.com
 DTSTART:20250108T060000
 DTEND:20250108T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Thu     Christmas Weekday                                                                                        white
 1 Jn 4:19—5:4/Lk 4:14-22a (215)
+UID:20250109-o3bzkd87j4h@bun.example.com
 DTSTART:20250109T060000
 DTEND:20250109T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Christmas Weekday                                                                                        white
 1 Jn 5:5-13/Lk 5:12-16 (216)
+UID:20250110-wkfx00nwp9@bun.example.com
 DTSTART:20250110T060000
 DTEND:20250110T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Christmas Weekday                                                                                        white
 1 Jn 5:14-21/Jn 3:22-30 (217)
+UID:20250111-s5q4q3793k8@bun.example.com
 DTSTART:20250111T060000
 DTEND:20250111T060100
 END:VEVENT
@@ -81,6 +93,7 @@ SUMMARY:    SUN    THE BAPTISM OF THE LORD                                      
 Feast
 Is 42:1-4, 6-7/Acts 10:34-38/Lk 3:15-16, 21-22
 or, in Year C, Is 40:1-5, 9-11/Ti 2:11-14; 3:4-7/Lk 3:15-16, 21-22 (21)   Pss Prop
+UID:20250112-u1d9lm1c3d@bun.example.com
 DTSTART:20250112T060000
 DTEND:20250112T060100
 END:VEVENT
@@ -88,24 +101,28 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday (First Week in Ordinary Time)                                           green/white
 [Saint Hilary, Bishop and Doctor of the Church]
 Heb 1:1-6/Mk 1:14-20 (305)   Pss I
+UID:20250113-yhfgwla64l@bun.example.com
 DTSTART:20250113T060000
 DTEND:20250113T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                           green
 Heb 2:5-12/Mk 1:21-28 (306)
+UID:20250114-a7w4k0tpjja@bun.example.com
 DTSTART:20250114T060000
 DTEND:20250114T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Heb 2:14-18/Mk 1:29-39 (307)
+UID:20250115-uzz48tblfa@bun.example.com
 DTSTART:20250115T060000
 DTEND:20250115T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Heb 3:7-14/Mk 1:40-45 (308)
+UID:20250116-sxdsecsw219@bun.example.com
 DTSTART:20250116T060000
 DTEND:20250116T060100
 END:VEVENT
@@ -113,6 +130,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint Anthony, Abbot                                                                                      white
 Memorial
 Heb 4:1-5, 11/Mk 2:1-12 (309)
+UID:20250117-964m5ziyjd@bun.example.com
 DTSTART:20250117T060000
 DTEND:20250117T060100
 END:VEVENT
@@ -120,12 +138,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 Heb 4:12-16/Mk 2:13-17 (310)
+UID:20250118-fzlter8qwve@bun.example.com
 DTSTART:20250118T060000
 DTEND:20250118T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    SECOND SUNDAY IN ORDINARY TIME                                                 green 
 Is 62:1-5/1 Cor 12:4-11/Jn 2:1-11 (66)   Pss II
+UID:20250119-ar1ppz5w0nv@bun.example.com
 DTSTART:20250119T060000
 DTEND:20250119T060100
 END:VEVENT
@@ -133,6 +153,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                               green/red/red
 [Saint Fabian, Pope and Martyr; Saint Sebastian, Martyr]
 Heb 5:1-10/Mk 2:18-22 (311)
+UID:20250120-rit8x35dfnd@bun.example.com
 DTSTART:20250120T060000
 DTEND:20250120T060100
 END:VEVENT
@@ -140,6 +161,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Agnes, Virgin and Martyr                                                                        red
 Memorial
 Heb 6:10-20/Mk 2:23-28 (312)   Pss Prop
+UID:20250121-8y0uk7znsx6@bun.example.com
 DTSTART:20250121T060000
 DTEND:20250121T060100
 END:VEVENT
@@ -150,6 +172,7 @@ Heb 7:1-3, 15-17/Mk 3:1-6 (313)
 or, for the Day of Prayer, any readings from the Mass “For Giving Thanks to God for the
  Gift of Human Life” (Lectionary for Mass Supplement, 947A-947E),
 or the Mass “For Peace and Justice” (887-891)
+UID:20250122-vuxr799az4k@bun.example.com
 DTSTART:20250122T060000
 DTEND:20250122T060100
 END:VEVENT
@@ -157,6 +180,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                           green/red/white
 [USA: Saint Vincent, Deacon and Martyr; USA: Saint Marianne Cope, Virgin]
 Heb 7:25—8:6/Mk 3:7-12 (314)
+UID:20250123-uf0nw0d5tr@bun.example.com
 DTSTART:20250123T060000
 DTEND:20250123T060100
 END:VEVENT
@@ -164,6 +188,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint Francis de Sales, Bishop and Doctor of the Church                           white
 Memorial
 Heb 8:6-13/Mk 3:13-19 (315)
+UID:20250124-bo4rzj4dos9@bun.example.com
 DTSTART:20250124T060000
 DTEND:20250124T060100
 END:VEVENT
@@ -171,12 +196,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      The Conversion of Saint Paul the Apostle                                                     white
 Feast
 Acts 22:3-16 or Acts 9:1-22/Mk 16:15-18 (519)   Pss Prop
+UID:20250125-qlfoi7gsqch@bun.example.com
 DTSTART:20250125T060000
 DTEND:20250125T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    THIRD SUNDAY IN ORDINARY TIME                                                    green 
 Neh 8:2-4a, 5-6, 8-10/1 Cor 12:12-30 or 12:12-14, 27/Lk 1:1-4; 4:14-21 (69)   Pss III
+UID:20250126-mkhg38y7sir@bun.example.com
 DTSTART:20250126T060000
 DTEND:20250126T060100
 END:VEVENT
@@ -184,6 +211,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                 green/white
 [Saint Angela Merici, Virgin]
 Heb 9:15, 24-28/Mk 3:22-30 (317)
+UID:20250127-oha8jqbzw9f@bun.example.com
 DTSTART:20250127T060000
 DTEND:20250127T060100
 END:VEVENT
@@ -191,18 +219,21 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Thomas Aquinas, Priest and Doctor of the Church                           white
 Memorial
 Heb 10:1-10/Mk 3:31-35 (318)
+UID:20250128-ge8h6qe9ghw@bun.example.com
 DTSTART:20250128T060000
 DTEND:20250128T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Heb 10:11-18/Mk 4:1-20 (319)
+UID:20250129-iu0alw0bpq9@bun.example.com
 DTSTART:20250129T060000
 DTEND:20250129T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Heb 10:19-25/Mk 4:21-25 (320)
+UID:20250130-79036spcs7l@bun.example.com
 DTSTART:20250130T060000
 DTEND:20250130T060100
 END:VEVENT
@@ -210,6 +241,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint John Bosco, Priest                                                                                  white
 Memorial
 Heb 10:32-39/Mk 4:26-34 (321)
+UID:20250131-zb408z09qhm@bun.example.com
 DTSTART:20250131T060000
 DTEND:20250131T060100
 END:VEVENT
@@ -217,6 +249,7 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                                                 green/white
 [BVM]
 Heb 11:1-2, 8-19/Mk 4:35-41 (322)
+UID:20250201-3y7wzownjy4@bun.example.com
 DTSTART:20250201T060000
 DTEND:20250201T060100
 END:VEVENT
@@ -224,6 +257,7 @@ BEGIN:VEVENT
 SUMMARY:      SUN    THE PRESENTATION OF THE LORD                                                      white
 Feast
 Mal 3:1-4/Heb 2:14-18/Lk 2:22-40 or 2:22-32 (524)   Pss Prop
+UID:20250202-0vnjh3cb2tgc@bun.example.com
 DTSTART:20250202T060000
 DTEND:20250202T060100
 END:VEVENT
@@ -231,12 +265,14 @@ BEGIN:VEVENT
 SUMMARY:      Mon    Weekday (Fourth Week in Ordinary Time)                                 green/red/white
 [Saint Blaise, Bishop and Martyr; Saint Ansgar, Bishop]
 Heb 11:32-40/Mk 5:1-20 (323)   Pss IV
+UID:20250203-e5g6jbu7xq@bun.example.com
 DTSTART:20250203T060000
 DTEND:20250203T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Tue     Weekday                                                                                                           green
 Heb 12:1-4/Mk 5:21-43 (324)
+UID:20250204-1as0w0qisd3@bun.example.com
 DTSTART:20250204T060000
 DTEND:20250204T060100
 END:VEVENT
@@ -244,6 +280,7 @@ BEGIN:VEVENT
 SUMMARY:      Wed    Saint Agatha, Virgin and Martyr                                                                      red
 Memorial
 Heb 12:4-7, 11-15/Mk 6:1-6 (325)
+UID:20250205-f4j0vkfvphb@bun.example.com
 DTSTART:20250205T060000
 DTEND:20250205T060100
 END:VEVENT
@@ -251,12 +288,14 @@ BEGIN:VEVENT
 SUMMARY:      Thu     Saint Paul Miki and Companions, Martyrs                                                      red
 Memorial
 Heb 12:18-19, 21-24/Mk 6:7-13 (326)
+UID:20250206-bs6ca6sq7bb@bun.example.com
 DTSTART:20250206T060000
 DTEND:20250206T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Fri       Weekday                                                                                                           green
 Heb 13:1-8/Mk 6:14-29 (327)
+UID:20250207-f4tilx3jwof@bun.example.com
 DTSTART:20250207T060000
 DTEND:20250207T060100
 END:VEVENT
@@ -264,12 +303,14 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                             green/white/white/white
 [Saint Jerome Emiliani; Saint Josephine Bakhita, Virgin; BVM]
 Heb 13:15-17, 20-21/Mk 6:30-34 (328)
+UID:20250208-yy4ge9xeesk@bun.example.com
 DTSTART:20250208T060000
 DTEND:20250208T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    FIFTH SUNDAY IN ORDINARY TIME                                                     green
  Is 6:1-2a, 3-8/1 Cor 15:1-11 or 15:3-8, 11/Lk 5:1-11 (75)   Pss I
+UID:20250209-sazlkxha6g@bun.example.com
 DTSTART:20250209T060000
 DTEND:20250209T060100
 END:VEVENT
@@ -277,6 +318,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Saint Scholastica, Virgin                                                                                 white
 Memorial
 Gn 1:1-19/Mk 6:53-56 (329)
+UID:20250210-w92eoyi941b@bun.example.com
 DTSTART:20250210T060000
 DTEND:20250210T060100
 END:VEVENT
@@ -284,18 +326,21 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                 green/white
 [Our Lady of Lourdes]
 Gn 1:20—2:4a/Mk 7:1-13 (330)
+UID:20250211-mj3be9p1vg@bun.example.com
 DTSTART:20250211T060000
 DTEND:20250211T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Gn 2:4b-9, 15-17/Mk 7:14-23 (331)
+UID:20250212-djcy3dmyns8@bun.example.com
 DTSTART:20250212T060000
 DTEND:20250212T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Gn 2:18-25/Mk 7:24-30 (332)
+UID:20250213-qvpffzx8qzo@bun.example.com
 DTSTART:20250213T060000
 DTEND:20250213T060100
 END:VEVENT
@@ -303,6 +348,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saints Cyril, Monk, and Methodius, Bishop                                                 white
 Memorial
 Gn 3:1-8/Mk 7:31-37 (333)
+UID:20250214-wklliwg523@bun.example.com
 DTSTART:20250214T060000
 DTEND:20250214T060100
 END:VEVENT
@@ -310,12 +356,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 Gn 3:9-24/Mk 8:1-10 (334)
+UID:20250215-y4gsab9a2b@bun.example.com
 DTSTART:20250215T060000
 DTEND:20250215T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    SIXTH SUNDAY IN ORDINARY TIME                                                     green 
 Jer 17:5-8/1 Cor 15:12, 16-20/Lk 6:17, 20-26 (78)   Pss II
+UID:20250216-ryd4qri2pui@bun.example.com
 DTSTART:20250216T060000
 DTEND:20250216T060100
 END:VEVENT
@@ -323,24 +371,28 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                 green/white
 [The Seven Holy Founders of the Servite Order]
 Gn 4:1-15, 25/Mk 8:11-13 (335)
+UID:20250217-u0efzof3iw9@bun.example.com
 DTSTART:20250217T060000
 DTEND:20250217T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                           green
 Gn 6:5-8; 7:1-5, 10/Mk 8:14-21 (336)
+UID:20250218-jptrhiexear@bun.example.com
 DTSTART:20250218T060000
 DTEND:20250218T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Gn 8:6-13, 20-22/Mk 8:22-26 (337)
+UID:20250219-5hwtvwphy6f@bun.example.com
 DTSTART:20250219T060000
 DTEND:20250219T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Gn 9:1-13/Mk 8:27-33 (338)
+UID:20250220-602crb6ycic@bun.example.com
 DTSTART:20250220T060000
 DTEND:20250220T060100
 END:VEVENT
@@ -348,6 +400,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                 green/white
 [Saint Peter Damian, Bishop and Doctor of the Church]
 Gn 11:1-9/Mk 8:34—9:1 (339)
+UID:20250221-x0tnly7f3np@bun.example.com
 DTSTART:20250221T060000
 DTEND:20250221T060100
 END:VEVENT
@@ -355,30 +408,35 @@ BEGIN:VEVENT
 SUMMARY:    Sat      The Chair of Saint Peter the Apostle                                                             white
 Feast
 1 Pt 5:1-4/Mt 16:13-19 (535)   Pss Prop
+UID:20250222-at8oxiacd@bun.example.com
 DTSTART:20250222T060000
 DTEND:20250222T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    SEVENTH SUNDAY IN ORDINARY TIME                                              green
 1 Sm 26:2, 7-9, 12-13, 22-23/1 Cor 15:45-49/Lk 6:27-38 (81)   Pss III
+UID:20250223-ubujphuwx8m@bun.example.com
 DTSTART:20250223T060000
 DTEND:20250223T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                           green
 Sir 1:1-10/Mk 9:14-29 (341)
+UID:20250224-gsfq7lmxb66@bun.example.com
 DTSTART:20250224T060000
 DTEND:20250224T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                           green
 Sir 2:1-11/Mk 9:30-37 (342)
+UID:20250225-73c8dxh05k9@bun.example.com
 DTSTART:20250225T060000
 DTEND:20250225T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Sir 4:11-19/Mk 9:38-40 (343)
+UID:20250226-6e8z72njyq7@bun.example.com
 DTSTART:20250226T060000
 DTEND:20250226T060100
 END:VEVENT
@@ -386,12 +444,14 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                 green/white
 [Saint Gregory of Narek, Abbot and Doctor of the Church]
 Sir 5:1-8/Mk 9:41-50 (344)
+UID:20250227-xy5350crkpf@bun.example.com
 DTSTART:20250227T060000
 DTEND:20250227T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                           green
 Sir 6:5-17/Mk 10:1-12 (345)
+UID:20250228-2cbzij3dbwd@bun.example.com
 DTSTART:20250228T060000
 DTEND:20250228T060100
 END:VEVENT
@@ -399,12 +459,14 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                                                 green/white
 [BVM]
 Sir 17:1-15/Mk 10:13-16 (346)
+UID:20250301-m6o98nwqngh@bun.example.com
 DTSTART:20250301T060000
 DTEND:20250301T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    EIGHTH SUNDAY IN ORDINARY TIME                                                 green 
 Sir 27:4-7/1 Cor 15:54-58/Lk 6:39-45 (84)   Pss IV
+UID:20250302-j3980ybnh97@bun.example.com
 DTSTART:20250302T060000
 DTEND:20250302T060100
 END:VEVENT
@@ -412,6 +474,7 @@ BEGIN:VEVENT
 SUMMARY:      Mon    Weekday                                                                                                 green/white
 [USA: Saint Katharine Drexel, Virgin]
 Sir 17:20-24/Mk 10:17-27 (347)
+UID:20250303-wn8ynf40i4e@bun.example.com
 DTSTART:20250303T060000
 DTEND:20250303T060100
 END:VEVENT
@@ -419,18 +482,21 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Weekday                                                                                                 green/white
 [Saint Casimir]
 Sir 35:1-12/Mk 10:28-31 (348)
+UID:20250304-lwlue3a2s1d@bun.example.com
 DTSTART:20250304T060000
 DTEND:20250304T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Ash Wednesday                                                                                               violet
 Jl 2:12-18/2 Cor 5:20—6:2/Mt 6:1-6, 16-18 (219)   Pss IV
+UID:20250305-zlk5iy71cpp@bun.example.com
 DTSTART:20250305T060000
 DTEND:20250305T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Thu     Thursday after Ash Wednesday                                                                     violet
  Dt 30:15-20/Lk 9:22-25 (220)
+UID:20250306-ow9n1vknn4c@bun.example.com
 DTSTART:20250306T060000
 DTEND:20250306T060100
 END:VEVENT
@@ -438,6 +504,7 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Friday after Ash Wednesday                                                                          violet
 [Saints Perpetua and Felicity, Martyrs]
 Is 58:1-9a/Mt 9:14-15 (221)
+UID:20250307-hyute4ncpgm@bun.example.com
 DTSTART:20250307T060000
 DTEND:20250307T060100
 END:VEVENT
@@ -445,54 +512,63 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Saturday after Ash Wednesday                                                                     violet
 [Saint John of God, Religious]
 Is 58:9b-14/Lk 5:27-32 (222)
+UID:20250308-kn0z7gcde4h@bun.example.com
 DTSTART:20250308T060000
 DTEND:20250308T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    FIRST SUNDAY OF LENT                                                                           violet 
 Dt 26:4-10/Rom 10:8-13/Lk 4:1-13 (24)   Pss I
+UID:20250309-8zeustgkwc6@bun.example.com
 DTSTART:20250309T060000
 DTEND:20250309T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Lenten Weekday                                                                                              violet
 Lv 19:1-2, 11-18/Mt 25:31-46 (224)
+UID:20250310-6tvlgtiddrr@bun.example.com
 DTSTART:20250310T060000
 DTEND:20250310T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Lenten Weekday                                                                                              violet
 Is 55:10-11/Mt 6:7-15 (225)
+UID:20250311-897s19sabdj@bun.example.com
 DTSTART:20250311T060000
 DTEND:20250311T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Lenten Weekday                                                                                              violet
 Jon 3:1-10/Lk 11:29-32 (226)
+UID:20250312-9yjnt06tkh@bun.example.com
 DTSTART:20250312T060000
 DTEND:20250312T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Lenten Weekday                                                                                              violet
 Est C:12, 14-16, 23-25/Mt 7:7-12 (227)
+UID:20250313-zoqwhxse1h@bun.example.com
 DTSTART:20250313T060000
 DTEND:20250313T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Lenten Weekday                                                                                              violet
 Ez 18:21-28/Mt 5:20-26 (228)
+UID:20250314-angu819s95s@bun.example.com
 DTSTART:20250314T060000
 DTEND:20250314T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Lenten Weekday                                                                                              violet
 Dt 26:16-19/Mt 5:43-48 (229)
+UID:20250315-kg1ggx77qv@bun.example.com
 DTSTART:20250315T060000
 DTEND:20250315T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    SECOND SUNDAY OF LENT                                                                      violet 
 Gn 15:5-12, 17-18/Phil 3:17—4:1 or 3:20—4:1/Lk 9:28b-36 (27)   Pss II
+UID:20250316-20zex7kxrgo@bun.example.com
 DTSTART:20250316T060000
 DTEND:20250316T060100
 END:VEVENT
@@ -500,6 +576,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Lenten Weekday                                                                                              violet
 [Saint Patrick, Bishop]
 Dn 9:4b-10/Lk 6:36-38 (230)
+UID:20250317-uetpezg18q@bun.example.com
 DTSTART:20250317T060000
 DTEND:20250317T060100
 END:VEVENT
@@ -507,6 +584,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Lenten Weekday                                                                                              violet
 [Saint Cyril of Jerusalem, Bishop and Doctor of the Church]
 Is 1:10, 16-20/Mt 23:1-12 (231)
+UID:20250318-j3hvqnjxfnk@bun.example.com
 DTSTART:20250318T060000
 DTEND:20250318T060100
 END:VEVENT
@@ -515,24 +593,28 @@ SUMMARY:    Wed    SAINT JOSEPH, SPOUSE OF THE BLESSED VIRGIN MARY             w
 Solemnity
 2 Sm 7:4-5a, 12-14a, 16/Rom 4:13, 16-18, 22/Mt 1:16, 18-21, 24a or Lk 2:41-51a (543)
 Pss Prop
+UID:20250319-0n1vjxht9sj@bun.example.com
 DTSTART:20250319T060000
 DTEND:20250319T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Lenten Weekday                                                                                              violet
 Jer 17:5-10/Lk 16:19-31 (233)
+UID:20250320-xyihbl3fut@bun.example.com
 DTSTART:20250320T060000
 DTEND:20250320T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Lenten Weekday                                                                                              violet
 Gn 37:3-4, 12-13a, 17b-28a/Mt 21:33-43, 45-46 (234)
+UID:20250321-d9lva4wl7bb@bun.example.com
 DTSTART:20250321T060000
 DTEND:20250321T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Lenten Weekday                                                                                              violet
 Mi 7:14-15, 18-20/Lk 15:1-3, 11-32 (235)
+UID:20250322-ivbrlrcllca@bun.example.com
 DTSTART:20250322T060000
 DTEND:20250322T060100
 END:VEVENT
@@ -540,6 +622,7 @@ BEGIN:VEVENT
 SUMMARY:    SUN    THIRD SUNDAY OF LENT                                                                          violet
  Ex 3:1-8a, 13-15/1 Cor 10:1-6, 10-12/Lk 13:1-9 (30)
 or, for Year A, Ex 17:3-7/Rom 5:1-2, 5-8/Jn 4:5-42 or 4:5-15, 19b-26, 39a, 40-42 (28)   Pss III  
+UID:20250323-eo0m72fu7o@bun.example.com
 DTSTART:20250323T060000
 DTEND:20250323T060100
 END:VEVENT
@@ -548,6 +631,7 @@ SUMMARY:Mon    Lenten Weekday                                                   
 2 Kgs 5:1-15b/Lk 4:24-30 (237)
 The following readings may be used on any Lenten day this week, especially in Years B and C when the 
 Gospel of the Samaritan Woman is not read on the Third Sunday of Lent: Ex 17:1-7/Jn 4:5-42 (236).
+UID:20250324-28yzshlw97m@bun.example.com
 DTSTART:20250324T060000
 DTEND:20250324T060100
 END:VEVENT
@@ -555,30 +639,35 @@ BEGIN:VEVENT
 SUMMARY:    Tue      THE ANNUNCIATION OF THE LORD                                                    white
 Solemnity
 Is 7:10-14; 8:10/Heb 10:4-10/Lk 1:26-38 (545)   Pss Prop
+UID:20250325-bgbp78gwh6@bun.example.com
 DTSTART:20250325T060000
 DTEND:20250325T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Lenten Weekday                                                                                              violet
 Dt 4:1, 5-9/Mt 5:17-19 (239)
+UID:20250326-p2gmzimq4qp@bun.example.com
 DTSTART:20250326T060000
 DTEND:20250326T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Lenten Weekday                                                                                              violet
 Jer 7:23-28/Lk 11:14-23 (240)
+UID:20250327-5axt3zjyell@bun.example.com
 DTSTART:20250327T060000
 DTEND:20250327T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Lenten Weekday                                                                                              violet
 Hos 14:2-10/Mk 12:28-34 (241)
+UID:20250328-dscc4dxomwk@bun.example.com
 DTSTART:20250328T060000
 DTEND:20250328T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Lenten Weekday                                                                                              violet
 Hos 6:1-6/Lk 18:9-14 (242)
+UID:20250329-a9p8veo9zjk@bun.example.com
 DTSTART:20250329T060000
 DTEND:20250329T060100
 END:VEVENT
@@ -587,6 +676,7 @@ SUMMARY:    SUN    FOURTH SUNDAY OF LENT                                        
  Jos 5:9a, 10-12/2 Cor 5:17-21/Lk 15:1-3, 11-32 (33)
 or, for Year A, 1 Sm 16:1b, 6-7, 10-13a/Eph 5:8-14/Jn 9:1-41 or 9:1, 6-9, 13-17, 34-38 (31)
 Pss IV
+UID:20250330-benmjqg9f85@bun.example.com
 DTSTART:20250330T060000
 DTEND:20250330T060100
 END:VEVENT
@@ -595,12 +685,14 @@ SUMMARY:    Mon    Lenten Weekday6                                              
 Is 65:17-21/Jn 4:43-54 (244)
 The following readings may be used on any day this week, especially in Years B and C when
  The Gospel of the Man Born Blind is not read on the Fourth Sunday of Lent: Mi 7:7-9/Jn 9:1-41 (243).
+UID:20250331-oq6h4oslme@bun.example.com
 DTSTART:20250331T060000
 DTEND:20250331T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Tue     Lenten Weekday                                                                                              violet
 Ez 47:1-9, 12/Jn 5:1-16 (245)
+UID:20250401-uoabgy14f4h@bun.example.com
 DTSTART:20250401T060000
 DTEND:20250401T060100
 END:VEVENT
@@ -608,12 +700,14 @@ BEGIN:VEVENT
 SUMMARY:      Wed    Lenten Weekday                                                                                              violet
 [Saint Francis of Paola, Hermit]
 Is 49:8-15/Jn 5:17-30 (246)
+UID:20250402-o7tl4uzfapg@bun.example.com
 DTSTART:20250402T060000
 DTEND:20250402T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Thu     Lenten Weekday                                                                                              violet
 Ex 32:7-14/Jn 5:31-47 (247)
+UID:20250403-6sqzsu57rul@bun.example.com
 DTSTART:20250403T060000
 DTEND:20250403T060100
 END:VEVENT
@@ -621,6 +715,7 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Lenten Weekday                                                                                              violet
 [Saint Isidore, Bishop and Doctor of the Church]
 Wis 2:1a, 12-22/Jn 7:1-2, 10, 25-30 (248)
+UID:20250404-66po0w0bqjx@bun.example.com
 DTSTART:20250404T060000
 DTEND:20250404T060100
 END:VEVENT
@@ -628,6 +723,7 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Lenten Weekday                                                                                              violet
 [Saint Vincent Ferrer, Priest]
 Jer 11:18-20/Jn 7:40-53 (249)
+UID:20250405-9ijzuewc70g@bun.example.com
 DTSTART:20250405T060000
 DTEND:20250405T060100
 END:VEVENT
@@ -635,6 +731,7 @@ BEGIN:VEVENT
 SUMMARY:      SUN    FIFTH SUNDAY OF LENT                                                                           violet
  Is 43:16-21/Phil 3:8-14/Jn 8:1-11 (36)
 or, for Year A, Ez 37:12-14/Rom 8:8-11/Jn 11:1-45 or 11:3-7, 17, 20-27, 33b-45 (34)   Pss I
+UID:20250406-cirk3xrwe4e@bun.example.com
 DTSTART:20250406T060000
 DTEND:20250406T060100
 END:VEVENT
@@ -644,24 +741,28 @@ SUMMARY:Mon    Lenten Weekday7                                                  
 Dn 13:1-9, 15-17, 19-30, 33-62 or 13:41c-62/Jn 8:12-20 (second choice) (251)
 The following readings may be used on any day this week, especially in Years B and C when 
 The Gospel of Lazarus is not read on the Fifth Sunday of Lent: 2 Kgs 4:18b-21, 32-37/Jn 11:1-45 (250).
+UID:20250407-k6extjmhkig@bun.example.com
 DTSTART:20250407T060000
 DTEND:20250407T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Tue     Lenten Weekday                                                                                              violet
 Nm 21:4-9/Jn 8:21-30 (252)
+UID:20250408-83kwvq6nrnq@bun.example.com
 DTSTART:20250408T060000
 DTEND:20250408T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Lenten Weekday                                                                                              violet
 Dn 3:14-20, 91-92, 95/Jn 8:31-42 (253)
+UID:20250409-ern73c7x5w7@bun.example.com
 DTSTART:20250409T060000
 DTEND:20250409T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Lenten Weekday                                                                                              violet
 Gn 17:3-9/Jn 8:51-59 (254)
+UID:20250410-wpm0xkr8cld@bun.example.com
 DTSTART:20250410T060000
 DTEND:20250410T060100
 END:VEVENT
@@ -669,36 +770,42 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Lenten Weekday                                                                                              violet
 [Saint Stanislaus, Bishop and Martyr]
 Jer 20:10-13/Jn 10:31-42 (255)
+UID:20250411-d8xpejm20dp@bun.example.com
 DTSTART:20250411T060000
 DTEND:20250411T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Lenten Weekday                                                                                              violet
 Ez 37:21-28/Jn 11:45-56 (256)
+UID:20250412-53xmz8ld258@bun.example.com
 DTSTART:20250412T060000
 DTEND:20250412T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    PALM SUNDAY OF THE PASSION OF THE LORD                                   red
  Lk 19:28-40 (37)/Is 50:4-7/Phil 2:6-11/Lk 22:14—23:56 or 23:1-49 (38)   Pss II
+UID:20250413-4e43y5jze92@bun.example.com
 DTSTART:20250413T060000
 DTEND:20250413T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Monday of Holy Week                                                                                    violet
 Is 42:1-7/Jn 12:1-11 (257)
+UID:20250414-2c4k8p7ql83@bun.example.com
 DTSTART:20250414T060000
 DTEND:20250414T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Tuesday of Holy Week                                                                                    violet
 Is 49:1-6/Jn 13:21-33, 36-38 (258)
+UID:20250415-txsfbsg10vi@bun.example.com
 DTSTART:20250415T060000
 DTEND:20250415T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Wednesday of Holy Week                                                                               violet
 Is 50:4-9a/Mt 26:14-25 (259)
+UID:20250416-7uwxn36t20o@bun.example.com
 DTSTART:20250416T060000
 DTEND:20250416T060100
 END:VEVENT
@@ -707,12 +814,14 @@ SUMMARY:Thu     Thursday of Holy Week (Holy Thursday)8                          
 Chrism Mass: Is 61:1-3a, 6a, 8b-9/Rv 1:5-8/Lk 4:16-21 (260)
 Evening Mass of the Lord’s Supper: Ex 12:1-8, 11-14/1 Cor 11:23-26/Jn 13:1-15 (39) Pss Prop
 If necessary, the Chrism Mass may be celebrated on a suitable day before Holy Thursday.
+UID:20250417-fdk8d8z6m3@bun.example.com
 DTSTART:20250417T060000
 DTEND:20250417T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Friday of the Passion of the Lord (Good Friday)                                             red
  Is 52:13—53:12/Heb 4:14-16; 5:7-9/Jn 18:1—19:42 (40)   Pss Pro
+UID:20250418-oyofnag0tmd@bun.example.com
 DTSTART:20250418T060000
 DTEND:20250418T060100
 END:VEVENT
@@ -722,6 +831,7 @@ Nine readings are assigned to the Easter Vigil: seven from the Old Testament and
 demand in individual cases, the number of prescribed readings may be reduced. Three selections from the Old
 Testament, both from the Law and the Prophets, should be read before the Epistle and Gospel. In any case, the reading
 from Exodus about the escape through the Red Sea (reading 3) should never be omitted.
+UID:20250419-7pc4ahabu7u@bun.example.com
 DTSTART:20250419T060000
 DTEND:20250419T060100
 END:VEVENT
@@ -729,6 +839,7 @@ BEGIN:VEVENT
 SUMMARY:Sun Easter Vigil: 
 Gn 1:1—2:2 or 1:1, 26-31a/Gn 22:1-18 or 22:1-2, 9a, 10-13, 15-18/
  Ex 14:15—15:1/Is 54:5-14/Is 55:1-11/Bar 3:9-15, 32—4:4/Ez 36:16-17a, 18-28/ Rom 6:3-11/Lk 24:1-12 (41)   Pss Prop
+UID:20250420-4nda5i99y75@bun.example.com
 DTSTART:20250420T060000
 DTEND:20250420T060100
 END:VEVENT
@@ -738,36 +849,42 @@ Acts 2:14, 22-33/Mt 28:8-15 (261)   Pss Prop
 Although not given the title of Solemnity, “[t]he first eight days of Easter Time 
 Constitute the Octave of Easter and are celebrated as Solemnities of the Lord”
  (Universal Norms on the Liturgical Year and the Calendar, no. 24).
+UID:20250421-ewxh6vkyz1p@bun.example.com
 DTSTART:20250421T060000
 DTEND:20250421T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Tuesday within the Octave of Easter                                                             white 
 Acts 2:36-41/Jn 20:11-18 (262)   Pss Prop
+UID:20250422-f94allmjmnv@bun.example.com
 DTSTART:20250422T060000
 DTEND:20250422T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Wednesday within the Octave of Easter                                                        white
  Acts 3:1-10/Lk 24:13-35 (263)   Pss Prop
+UID:20250423-esdola9yso4@bun.example.com
 DTSTART:20250423T060000
 DTEND:20250423T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Thursday within the Octave of Easter                                                           white 
 Acts 3:11-26/Lk 24:35-48 (264)   Pss Prop
+UID:20250424-sr2z7dpcusa@bun.example.com
 DTSTART:20250424T060000
 DTEND:20250424T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Friday within the Octave of Easter                                                                white
  Acts 4:1-12/Jn 21:1-14 (265)   Pss Prop
+UID:20250425-2cldq9fvj97@bun.example.com
 DTSTART:20250425T060000
 DTEND:20250425T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Saturday within the Octave of Easter                                                            white
  Acts 4:13-21/Mk 16:9-15 (266)   Pss Prop
+UID:20250426-8pag67tf86@bun.example.com
 DTSTART:20250426T060000
 DTEND:20250426T060100
 END:VEVENT
@@ -775,6 +892,7 @@ BEGIN:VEVENT
 SUMMARY:    SUN    SECOND SUNDAY OF EASTER                                                                 white
 (OR SUNDAY OF DIVINE MERCY)
 Acts 5:12-16/Rv 1:9-11a, 12-13, 17-19/Jn 20:19-31 (45)   Pss Prop
+UID:20250427-ssqids9a5uj@bun.example.com
 DTSTART:20250427T060000
 DTEND:20250427T060100
 END:VEVENT
@@ -782,6 +900,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Easter Weekday                                                                               white/red/white
 [Saint Peter Chanel, Priest and Martyr; Saint Louis Grignion de Montfort, Priest]
 Acts 4:23-31/Jn 3:1-8 (267)   Pss II
+UID:20250428-o5m522b0hqa@bun.example.com
 DTSTART:20250428T060000
 DTEND:20250428T060100
 END:VEVENT
@@ -789,6 +908,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Catherine of Siena, Virgin and Doctor of the Church                       white
 Memorial
 Acts 4:32-37/Jn 3:7b-15 (268)
+UID:20250429-wefuxoj25b@bun.example.com
 DTSTART:20250429T060000
 DTEND:20250429T060100
 END:VEVENT
@@ -796,6 +916,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Easter Weekday                                                                                     white/white
 [Saint Pius V, Pope]
 Acts 5:17-26/Jn 3:16-21 (269)
+UID:20250430-okuirk8v3uk@bun.example.com
 DTSTART:20250430T060000
 DTEND:20250430T060100
 END:VEVENT
@@ -804,6 +925,7 @@ SUMMARY:      Thu     Easter Weekday                                            
 [Saint Joseph the Worker]
 Acts 5:27-33/Jn 3:31-36 (270)
 or, for the Optional Memorial, Gn 1:26—2:3 or Col 3:14-15, 17, 23-24/Mt 13:54-58 (559)
+UID:20250501-v3wchq80fvf@bun.example.com
 DTSTART:20250501T060000
 DTEND:20250501T060100
 END:VEVENT
@@ -811,6 +933,7 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Saint Athanasius, Bishop and Doctor of the Church                                   white
 Memorial
 Acts 5:34-42/Jn 6:1-15 (271)
+UID:20250502-83srwwi1sps@bun.example.com
 DTSTART:20250502T060000
 DTEND:20250502T060100
 END:VEVENT
@@ -818,42 +941,49 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Saints Philip and James, Apostles                                                                      red
 Feast
 1 Cor 15:1-8/Jn 14:6-14 (561)   Pss Prop
+UID:20250503-x2cfbbzgxy@bun.example.com
 DTSTART:20250503T060000
 DTEND:20250503T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    THIRD SUNDAY OF EASTER                                                                     white
  Acts 5:27-32, 40b-41/Rv 5:11-14/Jn 21:1-19 or 21:1-14 (48)   Pss III
+UID:20250504-87k1te2062e@bun.example.com
 DTSTART:20250504T060000
 DTEND:20250504T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Mon    Easter Weekday                                                                                               white
 Acts 6:8-15/Jn 6:22-29 (273)
+UID:20250505-wblxdc2mlxl@bun.example.com
 DTSTART:20250505T060000
 DTEND:20250505T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Tue     Easter Weekday                                                                                               white
 Acts 7:51—8:1a/Jn 6:30-35 (274)
+UID:20250506-vzb4fr11vrd@bun.example.com
 DTSTART:20250506T060000
 DTEND:20250506T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Easter Weekday                                                                                               white
 Acts 8:1b-8/Jn 6:35-40 (275)
+UID:20250507-o4ek8bmaljs@bun.example.com
 DTSTART:20250507T060000
 DTEND:20250507T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Thu     Easter Weekday                                                                                               white
 Acts 8:26-40/Jn 6:44-51 (276)
+UID:20250508-lsoc5joe35@bun.example.com
 DTSTART:20250508T060000
 DTEND:20250508T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Fri       Easter Weekday                                                                                               white
 Acts 9:1-20/Jn 6:52-59 (277)
+UID:20250509-9pmvqrx2u8b@bun.example.com
 DTSTART:20250509T060000
 DTEND:20250509T060100
 END:VEVENT
@@ -861,12 +991,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Easter Weekday                                                                           white/white/white
 [Saint John of Avila, Priest and Doctor of the Church; USA: Saint Damien de Veuster, Priest]
 Acts 9:31-42/Jn 6:60-69 (278)
+UID:20250510-758sovqftnb@bun.example.com
 DTSTART:20250510T060000
 DTEND:20250510T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    FOURTH SUNDAY OF EASTER                                                                 white
  Acts 13:14, 43-52/Rv 7:9, 14b-17/Jn 10:27-30 (51)   Pss IV
+UID:20250511-u41iklxhry@bun.example.com
 DTSTART:20250511T060000
 DTEND:20250511T060100
 END:VEVENT
@@ -874,6 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Easter Weekday                                                                                   white/red/red
 [Saints Nereus and Achilleus, Martyrs; Saint Pancras, Martyr]
 Acts 11:1-18/Jn 10:1-10 (first choice) (279)
+UID:20250512-q4bjsqw2c6f@bun.example.com
 DTSTART:20250512T060000
 DTEND:20250512T060100
 END:VEVENT
@@ -881,6 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Easter Weekday                                                                                     white/white
 [Our Lady of Fatima]
 Acts 11:19-26/Jn 10:22-30 (280)
+UID:20250513-30myn5uklj9@bun.example.com
 DTSTART:20250513T060000
 DTEND:20250513T060100
 END:VEVENT
@@ -888,6 +1022,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Saint Matthias, Apostle                                                                                       red
 Feast
 Acts 1:15-17, 20-26/Jn 15:9-17 (564)   Pss Prop
+UID:20250514-gx7q9pfu5w@bun.example.com
 DTSTART:20250514T060000
 DTEND:20250514T060100
 END:VEVENT
@@ -895,30 +1030,35 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Easter Weekday                                                                                     white/white
 [USA: Saint Isidore]
 Acts 13:13-25/Jn 13:16-20 (282)
+UID:20250515-3pha0jbgfq7@bun.example.com
 DTSTART:20250515T060000
 DTEND:20250515T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Easter Weekday                                                                                               white
 Acts 13:26-33/Jn 14:1-6 (283)
+UID:20250516-km5ipmylv7@bun.example.com
 DTSTART:20250516T060000
 DTEND:20250516T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Easter Weekday                                                                                               white
 Acts 13:44-52/Jn 14:7-14 (284)
+UID:20250517-nhayeb3t8i@bun.example.com
 DTSTART:20250517T060000
 DTEND:20250517T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    FIFTH SUNDAY OF EASTER                                                                      white Acts
  14:21-27/Rv 21:1-5a/Jn 13:31-33a, 34-35 (54)   Pss I
+UID:20250518-mdfmgporypn@bun.example.com
 DTSTART:20250518T060000
 DTEND:20250518T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Easter Weekday                                                                                               white
 Acts 14:5-18/Jn 14:21-26 (285)
+UID:20250519-x06b5o6raqa@bun.example.com
 DTSTART:20250519T060000
 DTEND:20250519T060100
 END:VEVENT
@@ -926,6 +1066,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Easter Weekday                                                                                     white/white
 [Saint Bernardine of Siena, Priest]
 Acts 14:19-28/Jn 14:27-31a (286)
+UID:20250520-40lycbuaox8@bun.example.com
 DTSTART:20250520T060000
 DTEND:20250520T060100
 END:VEVENT
@@ -933,6 +1074,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Easter Weekday                                                                                         white/red
 [Saint Christopher Magallanes, Priest, and Companions, Martyrs]
 Acts 15:1-6/Jn 15:1-8 (287)
+UID:20250521-6klrlp24xqa@bun.example.com
 DTSTART:20250521T060000
 DTEND:20250521T060100
 END:VEVENT
@@ -940,24 +1082,28 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Easter Weekday                                                                                     white/white
 [Saint Rita of Cascia, Religious]
 Acts 15:7-21/Jn 15:9-11 (288)
+UID:20250522-0hyc9qoa2cr@bun.example.com
 DTSTART:20250522T060000
 DTEND:20250522T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Easter Weekday                                                                                               white
 Acts 15:22-31/Jn 15:12-17 (289)
+UID:20250523-1efe3ag6arp@bun.example.com
 DTSTART:20250523T060000
 DTEND:20250523T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Easter Weekday                                                                                               white
 Acts 16:1-10/Jn 15:18-21 (290)
+UID:20250524-jbtkynk6zjj@bun.example.com
 DTSTART:20250524T060000
 DTEND:20250524T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUN    SIXTH SUNDAY OF EASTER11         
 white Acts 15:1-2, 22-29/Rv 21:10-14, 22-23/Jn 14:23-29 (57)   Pss II
+UID:20250525-cf6zxjhjzdt@bun.example.com
 DTSTART:20250525T060000
 DTEND:20250525T060100
 END:VEVENT
@@ -965,6 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Saint Philip Neri, Priest                                                                                   white
 Memorial
 Acts 16:11-15/Jn 15:26—16:4a (291)
+UID:20250526-zk08zy3v70k@bun.example.com
 DTSTART:20250526T060000
 DTEND:20250526T060100
 END:VEVENT
@@ -972,6 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Easter Weekday                                                                                     white/white
 [Saint Augustine of Canterbury, Bishop]
 Acts 16:22-34/Jn 16:5-11 (292)
+UID:20250527-cox2o4jlrt9@bun.example.com
 DTSTART:20250527T060000
 DTEND:20250527T060100
 END:VEVENT
@@ -980,6 +1128,7 @@ SUMMARY:    Wed    Easter Weekday                                               
 Acts 17:15, 22—18:1/Jn 16:12-15 (293)
 11 When the Ascension of the Lord is celebrated on the following Sunday, the Second Reading 
 And Gospel from the Seventh Sunday of Easter (see no. 61) may be read on the Sixth Sunday of Easter.
+UID:20250528-8si8bm5ymix@bun.example.com
 DTSTART:20250528T060000
 DTEND:20250528T060100
 END:VEVENT
@@ -992,12 +1141,14 @@ All Other U.S. Ecclesiastical Provinces:
 29        Thu     Easter Weekday                                                                                     white/white
 [Saint Paul VI, Pope]
 Acts 18:1-8/Jn 16:16-20 (294)
+UID:20250529-psc84e99rvh@bun.example.com
 DTSTART:20250529T060000
 DTEND:20250529T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Easter Weekday                                                                                               white
 Acts 18:9-18/Jn 16:20-23 (295)
+UID:20250530-40bw8ej95si@bun.example.com
 DTSTART:20250530T060000
 DTEND:20250530T060100
 END:VEVENT
@@ -1005,6 +1156,7 @@ BEGIN:VEVENT
 SUMMARY:    Sat      The Visitation of the Blessed Virgin Mary                                                    white
 Feast
 Zep 3:14-18a or Rom 12:9-16/Lk 1:39-56 (572)   Pss Prop
+UID:20250531-b9me4eoabpe@bun.example.com
 DTSTART:20250531T060000
 DTEND:20250531T060100
 END:VEVENT
@@ -1016,6 +1168,7 @@ All Other U.S. Ecclesiastical Provinces:
   SUN    THE ASCENSION OF THE LORD                                                              white
 Solemnity
 Acts 1:1-11/Eph 1:17-23 or Heb 9:24-28; 10:19-23/Lk 24:46-53 (58)   Pss Prop
+UID:20250601-morcz3xfeka@bun.example.com
 DTSTART:20250601T060000
 DTEND:20250601T060100
 END:VEVENT
@@ -1023,6 +1176,7 @@ BEGIN:VEVENT
 SUMMARY:      Mon    Easter Weekday                                                                                         white/red
 [Saints Marcellinus and Peter, Martyrs]
 Acts 19:1-8/Jn 16:29-33 (297)
+UID:20250602-quvxg410i1@bun.example.com
 DTSTART:20250602T060000
 DTEND:20250602T060100
 END:VEVENT
@@ -1030,12 +1184,14 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Saint Charles Lwanga and Companions, Martyrs                                           red
 Memorial
 Acts 20:17-27/Jn 17:1-11a (298)
+UID:20250603-kuzbr7d426i@bun.example.com
 DTSTART:20250603T060000
 DTEND:20250603T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Easter Weekday                                                                                               white
 Acts 20:28-38/Jn 17:11b-19 (299)
+UID:20250604-rtym0es889@bun.example.com
 DTSTART:20250604T060000
 DTEND:20250604T060100
 END:VEVENT
@@ -1043,6 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:      Thu     Saint Boniface, Bishop and Martyr                                                                   red
 Memorial
 Acts 22:30; 23:6-11/Jn 17:20-26 (300)
+UID:20250605-2if0yjmnm4m@bun.example.com
 DTSTART:20250605T060000
 DTEND:20250605T060100
 END:VEVENT
@@ -1050,12 +1207,14 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Easter Weekday                                                                                     white/white
 [Saint Norbert, Bishop]
 Acts 25:13b-21/Jn 21:15-19 (301)
+UID:20250606-kyd5kdd5vgb@bun.example.com
 DTSTART:20250606T060000
 DTEND:20250606T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Sat      Easter Weekday                                                                                               white
 Morning: Acts 28:16-20, 30-31/Jn 21:20-25 (302)
+UID:20250607-ewdqganaup6@bun.example.com
 DTSTART:20250607T060000
 DTEND:20250607T060100
 END:VEVENT
@@ -1067,6 +1226,7 @@ or, for the Extended Vigil: Gn 11:1-9/Ex 19:3-8a, 16-20b/Ez 37:1-14/Jl 3:1-5/Rom
 (see Lectionary for Mass Supplement, 62)
 Day: Acts 2:1-11/1 Cor 12:3b-7, 12-13 or Rom 8:8-17/Jn 20:19-23 or Jn 14:15-16, 23b-26 (63)
 Pss Prop
+UID:20250608-nlpg5yw55di@bun.example.com
 DTSTART:20250608T060000
 DTEND:20250608T060100
 END:VEVENT
@@ -1079,12 +1239,14 @@ Gn 3:9-15, 20 or Acts 1:12-14/Jn 19;25-34
 Pss II
 
 
+UID:20250609-r83bg014ks@bun.example.com
 DTSTART:20250609T060000
 DTEND:20250609T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                           green
 2 Cor 1:18-22/Mt 5:13-16 (360)
+UID:20250610-89t793iwnp@bun.example.com
 DTSTART:20250610T060000
 DTEND:20250610T060100
 END:VEVENT
@@ -1092,12 +1254,14 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Saint Barnabas, Apostle                                                                                      red
 Memorial
 Acts 11:21b-26; 13:1-3 (580)/Mt 5:17-19 (361)
+UID:20250611-ttav6euf45a@bun.example.com
 DTSTART:20250611T060000
 DTEND:20250611T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 2 Cor 3:15—4:1, 3-6/Mt 5:20-26 (362)
+UID:20250612-0u1xi51xnryf@bun.example.com
 DTSTART:20250612T060000
 DTEND:20250612T060100
 END:VEVENT
@@ -1105,6 +1269,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint Anthony of Padua, Priest and Doctor of the Church                         white
 Memorial
 2 Cor 4:7-15/Mt 5:27-32 (363)
+UID:20250613-pf9by0i206a@bun.example.com
 DTSTART:20250613T060000
 DTEND:20250613T060100
 END:VEVENT
@@ -1112,6 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 2 Cor 5:14-21/Mt 5:33-37 (364)
+UID:20250614-0wzsq4rayxzd@bun.example.com
 DTSTART:20250614T060000
 DTEND:20250614T060100
 END:VEVENT
@@ -1119,24 +1285,28 @@ BEGIN:VEVENT
 SUMMARY:    SUN    THE MOST HOLY TRINITY                                                                       white
 Solemnity
 Prv 8:22-31/Rom 5:1-5/Jn 16:12-15 (166)   Pss Prop
+UID:20250615-rt08rsc6xif@bun.example.com
 DTSTART:20250615T060000
 DTEND:20250615T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday (Eleventh Week in Ordinary Time)                                              green 
 2 Cor 6:1-10/Mt 5:38-42 (365)   Pss III
+UID:20250616-9gt4qo937q@bun.example.com
 DTSTART:20250616T060000
 DTEND:20250616T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                           green
 2 Cor 8:1-9/Mt 5:43-48 (366)
+UID:20250617-ucys49szr4s@bun.example.com
 DTSTART:20250617T060000
 DTEND:20250617T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 2 Cor 9:6-11/Mt 6:1-6, 16-18 (367)
+UID:20250618-q7in3hg95b@bun.example.com
 DTSTART:20250618T060000
 DTEND:20250618T060100
 END:VEVENT
@@ -1144,12 +1314,14 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                 green/white
 [Saint Romuald, Abbot]
 2 Cor 11:1-11/Mt 6:7-15 (368)
+UID:20250619-dr31oyiwh3c@bun.example.com
 DTSTART:20250619T060000
 DTEND:20250619T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                           green
 2 Cor 11:18, 21-30/Mt 6:19-23 (369)
+UID:20250620-9pmqwbvk2mn@bun.example.com
 DTSTART:20250620T060000
 DTEND:20250620T060100
 END:VEVENT
@@ -1157,6 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saint Aloysius Gonzaga, Religious                                                                 white
 Memorial
 2 Cor 12:1-10/Mt 6:24-34 (370)
+UID:20250621-ycg3817q6g@bun.example.com
 DTSTART:20250621T060000
 DTEND:20250621T060100
 END:VEVENT
@@ -1165,12 +1338,14 @@ SUMMARY:    SUN    USA: THE MOST HOLY BODY AND BLOOD OF CHRIST                  
 (Corpus Christi)
 Solemnity
 Gn 14:18-20/1 Cor 11:23-26/Lk 9:11b-17 (169)   Pss Prop
+UID:20250622-grxpcpzynvi@bun.example.com
 DTSTART:20250622T060000
 DTEND:20250622T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday (Twelfth Week in Ordinary Time)                                                green
  Gn 12:1-9/Mt 7:1-5 (371)   Pss IV
+UID:20250623-p4w0zl3cq8@bun.example.com
 DTSTART:20250623T060000
 DTEND:20250623T060100
 END:VEVENT
@@ -1179,18 +1354,21 @@ SUMMARY:    Tue     THE NATIVITY OF SAINT JOHN THE BAPTIST                      
 Solemnity
 Vigil: Jer 1:4-10/1 Pt 1:8-12/Lk 1:5-17 (586)
 Day: Is 49:1-6/Acts 13:22-26/Lk 1:57-66, 80 (587)   Pss Prop
+UID:20250624-62ot2r9nkzh@bun.example.com
 DTSTART:20250624T060000
 DTEND:20250624T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Gn 15:1-12, 17-18/Mt 7:15-20 (373)
+UID:20250625-wdwfetrbjfa@bun.example.com
 DTSTART:20250625T060000
 DTEND:20250625T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Gn 16:1-12, 15-16 or 16:6b-12, 15-16/Mt 7:21-29 (374)
+UID:20250626-ioomq6szyn@bun.example.com
 DTSTART:20250626T060000
 DTEND:20250626T060100
 END:VEVENT
@@ -1198,6 +1376,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       THE MOST SACRED HEART OF JESUS                                                  white
 Solemnity
 Ez 34:11-16/Rom 5:5b-11/Lk 15:3-7 (172)   Pss Prop
+UID:20250627-7ekc6s86qzw@bun.example.com
 DTSTART:20250627T060000
 DTEND:20250627T060100
 END:VEVENT
@@ -1207,6 +1386,7 @@ SUMMARY:    Sat      Weekday                                                    
 Saint Irenaeus, Bishop, Martyr, and Doctor of the Church; BVM]
 Gn 18:1-15/Mt 8:5-17 (376)
 or, for the Optional Memorial of the Immaculate Heart, Gn 18:1-15 (376)/Lk 2:41-51 (573)
+UID:20250628-xmn0berorko@bun.example.com
 DTSTART:20250628T060000
 DTEND:20250628T060100
 END:VEVENT
@@ -1215,6 +1395,7 @@ SUMMARY:    SUN    SAINTS PETER AND PAUL, APOSTLES                              
 Solemnity
 Vigil: Acts 3:1-10/Gal 1:11-20/Jn 21:15-19 (590)
 Day: Acts 12:1-11/2 Tm 4:6-8, 17-18/Mt 16:13-19 (591)   Pss Prop
+UID:20250629-fpvlzp69ff@bun.example.com
 DTSTART:20250629T060000
 DTEND:20250629T060100
 END:VEVENT
@@ -1222,6 +1403,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday (Thirteenth Week in Ordinary Time)                                     green/red
 [The First Martyrs of the Holy Roman Church]
 Gn 18:16-33/Mt 8:18-22 (377)   Pss I
+UID:20250630-xd4p0d5wfs@bun.example.com
 DTSTART:20250630T060000
 DTEND:20250630T060100
 END:VEVENT
@@ -1229,12 +1411,14 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Weekday                                                                                                 green/white
 [USA: Saint Junípero Serra, Priest]
 Gn 19:15-29/Mt 8:23-27 (378)
+UID:20250701-l3ohtgi22r@bun.example.com
 DTSTART:20250701T060000
 DTEND:20250701T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Weekday                                                                                                           green
 Gn 21:5, 8-20a/Mt 8:28-34 (379)
+UID:20250702-7tn46uf1rir@bun.example.com
 DTSTART:20250702T060000
 DTEND:20250702T060100
 END:VEVENT
@@ -1242,6 +1426,7 @@ BEGIN:VEVENT
 SUMMARY:      Thu     Saint Thomas, Apostle                                                                                        red
 Feast
 Eph 2:19-22/Jn 20:24-29 (593)   Pss Prop
+UID:20250703-qrr1cx2cjef@bun.example.com
 DTSTART:20250703T060000
 DTEND:20250703T060100
 END:VEVENT
@@ -1251,6 +1436,7 @@ SUMMARY:      Fri       Weekday                                                 
 Gn 23:1-4, 19; 24:1-8, 62-67/Mt 9:9-13 (381)
 or, for Independence Day, any readings from the Mass “For the Country or a City” (882-886),
  Or the Mass “For Peace and Justice” (887-891)
+UID:20250704-zzkpn4p13e@bun.example.com
 DTSTART:20250704T060000
 DTEND:20250704T060100
 END:VEVENT
@@ -1258,24 +1444,28 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                             green/white/white/white
 [Saint Anthony Zaccaria, Priest; USA: Saint Elizabeth of Portugal; BVM]
 Gn 27:1-5, 15-29/Mt 9:14-17 (382)
+UID:20250705-0a8c399bagcs@bun.example.com
 DTSTART:20250705T060000
 DTEND:20250705T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    FOURTEENTH SUNDAY IN ORDINARY TIME                                     green 
 Is 66:10-14c/Gal 6:14-18/Lk 10:1-12, 17-20 or 10:1-9 (102)   Pss II
+UID:20250706-beet1ywd3sj@bun.example.com
 DTSTART:20250706T060000
 DTEND:20250706T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Mon    Weekday                                                                                                           green
 Gn 28:10-22a/Mt 9:18-26 (383)
+UID:20250707-ly1wyu2aexa@bun.example.com
 DTSTART:20250707T060000
 DTEND:20250707T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Tue     Weekday                                                                                                           green
 Gn 32:23-33/Mt 9:32-38 (384)
+UID:20250708-2sh6dzuephu@bun.example.com
 DTSTART:20250708T060000
 DTEND:20250708T060100
 END:VEVENT
@@ -1283,12 +1473,14 @@ BEGIN:VEVENT
 SUMMARY:      Wed    Weekday                                                                                                     green/red
 [Saint Augustine Zhao Rong, Priest, and Companions, Martyrs]
 Gn 41:55-57; 42:5-7a, 17-24a/Mt 10:1-7 (385)
+UID:20250709-ncfo74xji2c@bun.example.com
 DTSTART:20250709T060000
 DTEND:20250709T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Gn 44:18-21, 23b-29; 45:1-5/Mt 10:7-15 (386)
+UID:20250710-88524new3o3@bun.example.com
 DTSTART:20250710T060000
 DTEND:20250710T060100
 END:VEVENT
@@ -1296,6 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint Benedict, Abbot                                                                                      white
 Memorial
 Gn 46:1-7, 28-30/Mt 10:16-23 (387)
+UID:20250711-1hybzwzwbo8@bun.example.com
 DTSTART:20250711T060000
 DTEND:20250711T060100
 END:VEVENT
@@ -1303,12 +1496,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 Gn 49:29-32; 50:15-26a/Mt 10:24-33 (388)
+UID:20250712-tky4d36mpig@bun.example.com
 DTSTART:20250712T060000
 DTEND:20250712T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    FIFTEENTH SUNDAY IN ORDINARY TIME                                          green 
 Dt 30:10-14/Col 1:15-20/Lk 10:25-37 (105)   Pss III
+UID:20250713-35se97bx9s2@bun.example.com
 DTSTART:20250713T060000
 DTEND:20250713T060100
 END:VEVENT
@@ -1316,6 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    USA: Saint Kateri Tekakwitha, Virgin                                                         white
 Memorial
 Ex 1:8-14, 22/Mt 10:34—11:1 (389)
+UID:20250714-y21u4o26mp@bun.example.com
 DTSTART:20250714T060000
 DTEND:20250714T060100
 END:VEVENT
@@ -1323,6 +1519,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Bonaventure, Bishop and Doctor of the Church                                 white
 Memorial
 Ex 2:1-15a/Mt 11:20-24 (390)
+UID:20250715-pnuna30ifsk@bun.example.com
 DTSTART:20250715T060000
 DTEND:20250715T060100
 END:VEVENT
@@ -1330,12 +1527,14 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                 green/white
 [Our Lady of Mount Carmel]
 Ex 3:1-6, 9-12/Mt 11:25-27 (391)
+UID:20250716-d58zfkxnjpc@bun.example.com
 DTSTART:20250716T060000
 DTEND:20250716T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Ex 3:13-20/Mt 11:28-30 (392)
+UID:20250717-yyi8yeip8yl@bun.example.com
 DTSTART:20250717T060000
 DTEND:20250717T060100
 END:VEVENT
@@ -1343,6 +1542,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                 green/white
 [USA: Saint Camillus de Lellis, Priest]
 Ex 11:10—12:14/Mt 12:1-8 (393)
+UID:20250718-063xc9ctatcv@bun.example.com
 DTSTART:20250718T060000
 DTEND:20250718T060100
 END:VEVENT
@@ -1350,12 +1550,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 Ex 12:37-42/Mt 12:14-21 (394)
+UID:20250719-8oet0jfmxnn@bun.example.com
 DTSTART:20250719T060000
 DTEND:20250719T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    SIXTEENTH SUNDAY IN ORDINARY TIME                                          green
  Gn 18:1-10a/Col 1:24-28/Lk 10:38-42 (108)   Pss IV
+UID:20250720-nzw7jd0ytp9@bun.example.com
 DTSTART:20250720T060000
 DTEND:20250720T060100
 END:VEVENT
@@ -1363,6 +1565,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                 green/white
 [Saint Lawrence of Brindisi, Priest and Doctor of the Church]
 Ex 14:5-18/Mt 12:38-42 (395)
+UID:20250721-88zkn1ep9d@bun.example.com
 DTSTART:20250721T060000
 DTEND:20250721T060100
 END:VEVENT
@@ -1370,6 +1573,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Mary Magdalene                                                                                    white
 Feast
 Sg 3:1-4b or 2 Cor 5:14-17/Jn 20:1-2, 11-18 (603)   Pss Prop
+UID:20250722-qapcj2ffii@bun.example.com
 DTSTART:20250722T060000
 DTEND:20250722T060100
 END:VEVENT
@@ -1377,6 +1581,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                 green/white
 [Saint Bridget, Religious]
 Ex 16:1-5, 9-15/Mt 13:1-9 (397)
+UID:20250723-28wki9tjf6r@bun.example.com
 DTSTART:20250723T060000
 DTEND:20250723T060100
 END:VEVENT
@@ -1384,6 +1589,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                 green/white
 [Saint Sharbel Makhlūf, Priest]
 Ex 19:1-2, 9-11, 16-20b/Mt 13:10-17 (398)
+UID:20250724-v7y6824tn1s@bun.example.com
 DTSTART:20250724T060000
 DTEND:20250724T060100
 END:VEVENT
@@ -1391,6 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint James, Apostle                                                                                           red
 Feast
 2 Cor 4:7-15/Mt 20:20-28 (605)   Pss Prop
+UID:20250725-kog46ly8oj@bun.example.com
 DTSTART:20250725T060000
 DTEND:20250725T060100
 END:VEVENT
@@ -1398,18 +1605,21 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saints Joachim and Anne, Parents of the Blessed Virgin Mary                  white
 Memorial
 Ex 24:3-8/Mt 13:24-30 (400)
+UID:20250726-epl2p3xgbn7@bun.example.com
 DTSTART:20250726T060000
 DTEND:20250726T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    SEVENTEENTH SUNDAY IN ORDINARY TIME                                   green
  Gn 18:20-32/Col 2:12-14/Lk 11:1-13 (111)   Pss I
+UID:20250727-uzqvi9hm8ca@bun.example.com
 DTSTART:20250727T060000
 DTEND:20250727T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                           green
 Ex 32:15-24, 30-34/Mt 13:31-35 (401)
+UID:20250728-55c1zyw31n7@bun.example.com
 DTSTART:20250728T060000
 DTEND:20250728T060100
 END:VEVENT
@@ -1417,6 +1627,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saints Martha, Mary, and Lazarus                                                                white
 Memorial
 Ex 33:7-11; 34:5b-9, 28 (402)/Jn 11:19-27 or Lk 10:38-42 (607)
+UID:20250729-rmfnxixvfnm@bun.example.com
 DTSTART:20250729T060000
 DTEND:20250729T060100
 END:VEVENT
@@ -1424,6 +1635,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                 green/white
 [Saint Peter Chrysologus, Bishop and Doctor of the Church]
 Ex 34:29-35/Mt 13:44-46 (403)
+UID:20250730-oj04zjxb21@bun.example.com
 DTSTART:20250730T060000
 DTEND:20250730T060100
 END:VEVENT
@@ -1431,6 +1643,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Saint Ignatius of Loyola, Priest                                                                      white
 Memorial
 Ex 40:16-21, 34-38/Mt 13:47-53 (404)
+UID:20250731-p06vtexq8x@bun.example.com
 DTSTART:20250731T060000
 DTEND:20250731T060100
 END:VEVENT
@@ -1438,6 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Saint Alphonsus Liguori, Bishop and Doctor of the Church                       white
 Memorial
 Lv 23:1, 4-11, 15-16, 27, 34b-37/Mt 13:54-58 (405)
+UID:20250801-fit037j25o@bun.example.com
 DTSTART:20250801T060000
 DTEND:20250801T060100
 END:VEVENT
@@ -1445,12 +1659,14 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                             green/white/white/white
 [Saint Eusebius of Vercelli, Bishop; Saint Peter Julian Eymard, Priest; BVM]
 Lv 25:1, 8-17/Mt 14:1-12 (406)
+UID:20250802-u6fa0pd987r@bun.example.com
 DTSTART:20250802T060000
 DTEND:20250802T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    EIGHTEENTH SUNDAY IN ORDINARY TIME                                      green 
 Eccl 1:2; 2:21-23/Col 3:1-5, 9-11/Lk 12:13-21 (114)   Pss II
+UID:20250803-383g1iw3u7f@bun.example.com
 DTSTART:20250803T060000
 DTEND:20250803T060100
 END:VEVENT
@@ -1458,6 +1674,7 @@ BEGIN:VEVENT
 SUMMARY:      Mon    Saint John Vianney, Priest                                                                              white
 Memorial
 Nm 11:4b-15/Mt 14:13-21 (407)
+UID:20250804-xznadlxnd5n@bun.example.com
 DTSTART:20250804T060000
 DTEND:20250804T060100
 END:VEVENT
@@ -1465,6 +1682,7 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Weekday                                                                                                 green/white
 [The Dedication of the Basilica of Saint Mary Major]
 Nm 12:1-13/Mt 14:22-36 or Mt 15:1-2, 10-14 (408)
+UID:20250805-l6k6evmc68@bun.example.com
 DTSTART:20250805T060000
 DTEND:20250805T060100
 END:VEVENT
@@ -1472,6 +1690,7 @@ BEGIN:VEVENT
 SUMMARY:      Wed    The Transfiguration of the Lord                                                                    white
 Feast
 Dn 7:9-10, 13-14/2 Pt 1:16-19/Lk 9:28b-36 (614)   Pss Prop
+UID:20250806-xz3t062unwc@bun.example.com
 DTSTART:20250806T060000
 DTEND:20250806T060100
 END:VEVENT
@@ -1479,6 +1698,7 @@ BEGIN:VEVENT
 SUMMARY:      Thu     Weekday                                                                                           green/red/white
 [Saint Sixtus II, Pope, and Companions, Martyrs; Saint Cajetan, Priest]
 Nm 20:1-13/Mt 16:13-23 (410)
+UID:20250807-epdttm14ss@bun.example.com
 DTSTART:20250807T060000
 DTEND:20250807T060100
 END:VEVENT
@@ -1486,6 +1706,7 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Saint Dominic, Priest                                                                                       white
 Memorial
 Dt 4:32-40/Mt 16:24-28 (411)
+UID:20250808-quagpv7yf5@bun.example.com
 DTSTART:20250808T060000
 DTEND:20250808T060100
 END:VEVENT
@@ -1493,12 +1714,14 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                                           green/red/white
 [Saint Teresa Benedicta of the Cross, Virgin and Martyr; BVM]
 Dt 6:4-13/Mt 17:14-20 (412)
+UID:20250809-xcm6xuv2jc@bun.example.com
 DTSTART:20250809T060000
 DTEND:20250809T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    NINETEENTH SUNDAY IN ORDINARY TIME                                       green 
 Wis 18:6-9/Heb 11:1-2, 8-19 or 11:1-2, 8-12/Lk 12:32-48 or 12:35-40 (117)   Pss III
+UID:20250810-v2xt173395@bun.example.com
 DTSTART:20250810T060000
 DTEND:20250810T060100
 END:VEVENT
@@ -1506,6 +1729,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Saint Clare, Virgin                                                                                           white
 Memorial
 Dt 10:12-22/Mt 17:22-27 (413)
+UID:20250811-uikovnt9e2i@bun.example.com
 DTSTART:20250811T060000
 DTEND:20250811T060100
 END:VEVENT
@@ -1513,6 +1737,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                 green/white
 [Saint Jane Frances de Chantal, Religious]
 Dt 31:1-8/Mt 18:1-5, 10, 12-14 (414)
+UID:20250812-prrs5rk90te@bun.example.com
 DTSTART:20250812T060000
 DTEND:20250812T060100
 END:VEVENT
@@ -1520,6 +1745,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                     green/red
 [Saints Pontian, Pope, and Hippolytus, Priest, Martyrs]
 Dt 34:1-12/Mt 18:15-20 (415)
+UID:20250813-xqit912ks2g@bun.example.com
 DTSTART:20250813T060000
 DTEND:20250813T060100
 END:VEVENT
@@ -1527,6 +1753,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Saint Maximilian Kolbe, Priest and Martyr                                                     red
 Memorial
 Jos 3:7-10a, 11, 13-17/Mt 18:21—19:1 (416)
+UID:20250814-1lxnycghvg7@bun.example.com
 DTSTART:20250814T060000
 DTEND:20250814T060100
 END:VEVENT
@@ -1535,6 +1762,7 @@ SUMMARY:    Fri       THE ASSUMPTION OF THE BLESSED VIRGIN MARY                 
 Solemnity        [Holyday of Obligation]
 Vigil: 1 Chr 15:3-4, 15-16; 16:1-2/1 Cor 15:54b-57/Lk 11:27-28 (621)
 Day: Rv 11:19a; 12:1-6a, 10ab/1 Cor 15:20-27/Lk 1:39-56 (622)   Pss Prop
+UID:20250815-v48w1et1nho@bun.example.com
 DTSTART:20250815T060000
 DTEND:20250815T060100
 END:VEVENT
@@ -1542,18 +1770,21 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                       green/white/white
 [Saint Stephen of Hungary; BVM]
 Jos 24:14-29/Mt 19:13-15 (418)
+UID:20250816-iiui3f4hjw@bun.example.com
 DTSTART:20250816T060000
 DTEND:20250816T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    TWENTIETH SUNDAY IN ORDINARY TIME                                        green 
 Jer 38:4-6, 8-10/Heb 12:1-4/Lk 12:49-53 (120)   Pss IV
+UID:20250817-e3tmq445sa@bun.example.com
 DTSTART:20250817T060000
 DTEND:20250817T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                           green
 Jgs 2:11-19/Mt 19:16-22 (419)
+UID:20250818-3shnpwmn74i@bun.example.com
 DTSTART:20250818T060000
 DTEND:20250818T060100
 END:VEVENT
@@ -1561,6 +1792,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                 green/white
 [Saint John Eudes, Priest]
 Jgs 6:11-24a/Mt 19:23-30 (420)
+UID:20250819-p6hgoha3ho@bun.example.com
 DTSTART:20250819T060000
 DTEND:20250819T060100
 END:VEVENT
@@ -1568,6 +1800,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Saint Bernard, Abbot and Doctor of the Church                                         white
 Memorial
 Jgs 9:6-15/Mt 20:1-16 (421)
+UID:20250820-kp6mv42hiv9@bun.example.com
 DTSTART:20250820T060000
 DTEND:20250820T060100
 END:VEVENT
@@ -1575,6 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Saint Pius X, Pope                                                                                            white
 Memorial
 Jgs 11:29-39a/Mt 22:1-14 (422)
+UID:20250821-hiacmzbw2dc@bun.example.com
 DTSTART:20250821T060000
 DTEND:20250821T060100
 END:VEVENT
@@ -1582,6 +1816,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       The Queenship of the Blessed Virgin Mary                                                  white
 Memorial
 Ru 1:1, 3-6, 14b-16, 22/Mt 22:34-40 (423)
+UID:20250822-hpdlw5abqok@bun.example.com
 DTSTART:20250822T060000
 DTEND:20250822T060100
 END:VEVENT
@@ -1589,12 +1824,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                       green/white/white
 [Saint Rose of Lima, Virgin; BVM]
 Ru 2:1-3, 8-11; 4:13-17/Mt 23:1-12 (424)
+UID:20250823-5wj4zxzywus@bun.example.com
 DTSTART:20250823T060000
 DTEND:20250823T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    TWENTY-FIRST SUNDAY IN ORDINARY TIME                                  green 
 Is 66:18-21/Heb 12:5-7, 11-13/Lk 13:22-30 (123)   Pss I
+UID:20250824-thjkr7dlo1@bun.example.com
 DTSTART:20250824T060000
 DTEND:20250824T060100
 END:VEVENT
@@ -1602,12 +1839,14 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                       green/white/white
 [Saint Louis; Saint Joseph Calasanz, Priest]
 1 Thes 1:1-5, 8b-10/Mt 23:13-22 (425)
+UID:20250825-z8knlagxhvs@bun.example.com
 DTSTART:20250825T060000
 DTEND:20250825T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                           green
 1 Thes 2:1-8/Mt 23:23-26 (426)
+UID:20250826-s7ro19a7k08@bun.example.com
 DTSTART:20250826T060000
 DTEND:20250826T060100
 END:VEVENT
@@ -1615,6 +1854,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Saint Monica                                                                                                    white
 Memorial
 1 Thes 2:9-13/Mt 23:27-32 (427)
+UID:20250827-gm41b5rpqs@bun.example.com
 DTSTART:20250827T060000
 DTEND:20250827T060100
 END:VEVENT
@@ -1622,6 +1862,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Saint Augustine, Bishop and Doctor of the Church                                     white
 Memorial
 1 Thes 3:7-13/Mt 24:42-51 (428)
+UID:20250828-yy7vaiqi3s@bun.example.com
 DTSTART:20250828T060000
 DTEND:20250828T060100
 END:VEVENT
@@ -1629,6 +1870,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       The Passion of Saint John the Baptist                                                               red
 Memorial
 1 Thes 4:1-8 (429)/Mk 6:17-29 (634)   Pss Prop
+UID:20250829-nmt96daeyce@bun.example.com
 DTSTART:20250829T060000
 DTEND:20250829T060100
 END:VEVENT
@@ -1636,24 +1878,28 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 1 Thes 4:9-11/Mt 25:14-30 (430)
+UID:20250830-ehnd1mwir9t@bun.example.com
 DTSTART:20250830T060000
 DTEND:20250830T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    TWENTY-SECOND SUNDAY IN ORDINARY TIME                              green
  Sir 3:17-18, 20, 28-29/Heb 12:18-19, 22-24a/Lk 14:1, 7-14 (126)   Pss II
+UID:20250831-iezv7gxbzx9@bun.example.com
 DTSTART:20250831T060000
 DTEND:20250831T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Mon    Weekday                                                                                                           green
 1 Thes 4:13-18/Lk 4:16-30 (431)
+UID:20250901-ajfv4ny3ym@bun.example.com
 DTSTART:20250901T060000
 DTEND:20250901T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Tue     Weekday                                                                                                           green
 1 Thes 5:1-6, 9-11/Lk 4:31-37 (432)
+UID:20250902-osk8itfg97c@bun.example.com
 DTSTART:20250902T060000
 DTEND:20250902T060100
 END:VEVENT
@@ -1661,12 +1907,14 @@ BEGIN:VEVENT
 SUMMARY:      Wed    Saint Gregory the Great, Pope and Doctor of the Church                          white
 Memorial
 Col 1:1-8/Lk 4:38-44 (433)
+UID:20250903-zqr1afeox4@bun.example.com
 DTSTART:20250903T060000
 DTEND:20250903T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Thu     Weekday                                                                                                           green
 Col 1:9-14/Lk 5:1-11 (434)
+UID:20250904-i9h538hxqy@bun.example.com
 DTSTART:20250904T060000
 DTEND:20250904T060100
 END:VEVENT
@@ -1674,6 +1922,7 @@ BEGIN:VEVENT
 SUMMARY:      Fri       Weekday                                                                                                 green/white
 [Saint Teresa of Calcutta, Virgin]
 Col 1:15-20/Lk 5:33-39 (435)
+UID:20250905-k0qqamlb6ys@bun.example.com
 DTSTART:20250905T060000
 DTEND:20250905T060100
 END:VEVENT
@@ -1681,12 +1930,14 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                                                 green/white
 [BVM]
 Col 1:21-23/Lk 6:1-5 (436)
+UID:20250906-09xrfqxpqst@bun.example.com
 DTSTART:20250906T060000
 DTEND:20250906T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    TWENTY-THIRD SUNDAY IN ORDINARY TIME                                 green
  Wis 9:13-18b/Phlm 9-10, 12-17/Lk 14:25-33 (129)   Pss III
+UID:20250907-5hmkzm9yl4o@bun.example.com
 DTSTART:20250907T060000
 DTEND:20250907T060100
 END:VEVENT
@@ -1694,6 +1945,7 @@ BEGIN:VEVENT
 SUMMARY:      Mon    The Nativity of the Blessed Virgin Mary                                                       white
 Feast
 Mi 5:1-4a or Rom 8:28-30/Mt 1:1-16, 18-23 or 1:18-23 (636)   Pss Prop
+UID:20250908-c39jgh7i30s@bun.example.com
 DTSTART:20250908T060000
 DTEND:20250908T060100
 END:VEVENT
@@ -1701,18 +1953,21 @@ BEGIN:VEVENT
 SUMMARY:      Tue     USA: Saint Peter Claver, Priest                                                                      white
 Memorial
 Col 2:6-15/Lk 6:12-19 (438)
+UID:20250909-09pp5ih28lfo@bun.example.com
 DTSTART:20250909T060000
 DTEND:20250909T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Col 3:1-11/Lk 6:20-26 (439)
+UID:20250910-rq1z07s5n9n@bun.example.com
 DTSTART:20250910T060000
 DTEND:20250910T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Col 3:12-17/Lk 6:27-38 (440)
+UID:20250911-zzv78tkctlq@bun.example.com
 DTSTART:20250911T060000
 DTEND:20250911T060100
 END:VEVENT
@@ -1720,6 +1975,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                 green/white
 [The Most Holy Name of Mary]
 1 Tm 1:1-2, 12-14/Lk 6:39-42 (441)
+UID:20250912-ht1co05cil@bun.example.com
 DTSTART:20250912T060000
 DTEND:20250912T060100
 END:VEVENT
@@ -1727,6 +1983,7 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saint John Chrysostom, Bishop and Doctor of the Church                        white
 Memorial
 1 Tm 1:15-17/Lk 6:43-49 (442)
+UID:20250913-aqy2arq0ozv@bun.example.com
 DTSTART:20250913T060000
 DTEND:20250913T060100
 END:VEVENT
@@ -1734,6 +1991,7 @@ BEGIN:VEVENT
 SUMMARY:    SUN    THE EXALTATION OF THE HOLY CROSS                                               red
 Feast
 Nm 21:4b-9/Phil 2:6-11/Jn 3:13-17 (638)   Pss Prop
+UID:20250914-urf07dfgmio@bun.example.com
 DTSTART:20250914T060000
 DTEND:20250914T060100
 END:VEVENT
@@ -1741,6 +1999,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Our Lady of Sorrows (Twenty-Fourth Week in Ordinary Time)              white
 Memorial
 1 Tm 2:1-8 (443)/Jn 19:25-27 or Lk 2:33-35 (639)   Pss Prop
+UID:20250915-qmjzhyikez@bun.example.com
 DTSTART:20250915T060000
 DTEND:20250915T060100
 END:VEVENT
@@ -1748,6 +2007,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs                                   red
 Memorial
 1 Tm 3:1-13/Lk 7:11-17 (444)   Pss IV
+UID:20250916-515wohvua9@bun.example.com
 DTSTART:20250916T060000
 DTEND:20250916T060100
 END:VEVENT
@@ -1755,12 +2015,14 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                       green/white/white
 [Saint Robert Bellarmine, Bishop and Doctor of the Church; Saint Hildegard of Bingen, 
 Virgin and Doctor of the Church] 1 Tm 3:14-16/Lk 7:31-35 (445)
+UID:20250917-nhsrq039vpf@bun.example.com
 DTSTART:20250917T060000
 DTEND:20250917T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 1 Tm 4:12-16/Lk 7:36-50 (446)
+UID:20250918-5qkls5j7vy6@bun.example.com
 DTSTART:20250918T060000
 DTEND:20250918T060100
 END:VEVENT
@@ -1768,6 +2030,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                     green/red
 [Saint Januarius, Bishop and Martyr]
 1 Tm 6:2c-12/Lk 8:1-3 (447)
+UID:20250919-1pym784gk3kj@bun.example.com
 DTSTART:20250919T060000
 DTEND:20250919T060100
 END:VEVENT
@@ -1776,18 +2039,21 @@ SUMMARY:    Sat      Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang
 and Companions, Martyrs
 Memorial
 1 Tm 6:13-16/Lk 8:4-15 (448)
+UID:20250920-eej8re4bxu@bun.example.com
 DTSTART:20250920T060000
 DTEND:20250920T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    TWENTY-FIFTH SUNDAY IN ORDINARY TIME                                  green
  Am 8:4-7/1 Tm 2:1-8/Lk 16:1-13 or 16:10-13 (135)   Pss I
+UID:20250921-u0vi8glqfyo@bun.example.com
 DTSTART:20250921T060000
 DTEND:20250921T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                           green
 Ezr 1:1-6/Lk 8:16-18 (449)
+UID:20250922-1jkuaracgit@bun.example.com
 DTSTART:20250922T060000
 DTEND:20250922T060100
 END:VEVENT
@@ -1795,18 +2061,21 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Pius of Pietrelcina, Priest                                                                      white
 Memorial
 Ezr 6:7-8, 12b, 14-20/Lk 8:19-21 (450)
+UID:20250923-0tko4971rjz@bun.example.com
 DTSTART:20250923T060000
 DTEND:20250923T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Ezr 9:5-9/Lk 9:1-6 (451)
+UID:20250924-n9v1sbqi0p@bun.example.com
 DTSTART:20250924T060000
 DTEND:20250924T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Hg 1:1-8/Lk 9:7-9 (452)
+UID:20250925-7dqmqvrkef@bun.example.com
 DTSTART:20250925T060000
 DTEND:20250925T060100
 END:VEVENT
@@ -1814,6 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                     green/red
 [Saints Cosmas and Damian, Martyrs]
 Hg 2:1-9/Lk 9:18-22 (453)
+UID:20250926-3hdgif9oypp@bun.example.com
 DTSTART:20250926T060000
 DTEND:20250926T060100
 END:VEVENT
@@ -1821,12 +2091,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saint Vincent de Paul, Priest                                                                          white
 Memorial
 Zec 2:5-9, 14-15a/Lk 9:43b-45 (454)
+UID:20250927-4q3ks4b0ae6@bun.example.com
 DTSTART:20250927T060000
 DTEND:20250927T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    TWENTY-SIXTH SUNDAY IN ORDINARY TIME                                  green 
 Am 6:1a, 4-7/1 Tm 6:11-16/Lk 16:19-31 (138)   Pss II
+UID:20250928-a5fhe7mobjh@bun.example.com
 DTSTART:20250928T060000
 DTEND:20250928T060100
 END:VEVENT
@@ -1834,6 +2106,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Saints Michael, Gabriel and Raphael, Archangels                                       white
 Feast
 Dn 7:9-10, 13-14 or Rv 12:7-12ab/Jn 1:47-51 (647)   Pss Prop
+UID:20250929-dlp2usona28@bun.example.com
 DTSTART:20250929T060000
 DTEND:20250929T060100
 END:VEVENT
@@ -1841,6 +2114,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Jerome, Priest and Doctor of the Church                                            white
 Memorial
 Zec 8:20-23/Lk 9:51-56 (456)
+UID:20250930-o927p5zf71@bun.example.com
 DTSTART:20250930T060000
 DTEND:20250930T060100
 END:VEVENT
@@ -1848,6 +2122,7 @@ BEGIN:VEVENT
 SUMMARY:      Wed    Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church          white
 Memorial
 Neh 2:1-8/Lk 9:57-62 (457)
+UID:20251001-jewav0w6sfb@bun.example.com
 DTSTART:20251001T060000
 DTEND:20251001T060100
 END:VEVENT
@@ -1855,12 +2130,14 @@ BEGIN:VEVENT
 SUMMARY:      Thu     The Holy Guardian Angels                                                                             white
 Memorial
 Neh 8:1-4a, 5-6, 7b-12 (458)/Mt 18:1-5, 10 (650)   Pss Prop
+UID:20251002-a9gu1lznhd7@bun.example.com
 DTSTART:20251002T060000
 DTEND:20251002T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Fri       Weekday                                                                                                           green
 Bar 1:15-22/Lk 10:13-16 (459)
+UID:20251003-74x7phaksiy@bun.example.com
 DTSTART:20251003T060000
 DTEND:20251003T060100
 END:VEVENT
@@ -1868,12 +2145,14 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Saint Francis of Assisi                                                                                     white
 Memorial
 Bar 4:5-12, 27-29/Lk 10:17-24 (460)
+UID:20251004-yp187yqh3o@bun.example.com
 DTSTART:20251004T060000
 DTEND:20251004T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    TWENTY-SEVENTH SUNDAY IN ORDINARY TIME                           green
  Hb 1:2-3; 2:2-4/2 Tm 1:6-8, 13-14/Lk 17:5-10 (141)   Pss III
+UID:20251005-1o29fyszdkp@bun.example.com
 DTSTART:20251005T060000
 DTEND:20251005T060100
 END:VEVENT
@@ -1881,6 +2160,7 @@ BEGIN:VEVENT
 SUMMARY:      Mon    Weekday                                                                                       green/white/white
 [Saint Bruno, Priest; USA: Blessed Marie Rose Durocher, Virgin]
 Jon 1:1—2:2, 11/Lk 10:25-37 (461)
+UID:20251006-q3vtdvallwr@bun.example.com
 DTSTART:20251006T060000
 DTEND:20251006T060100
 END:VEVENT
@@ -1888,12 +2168,14 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Our Lady of the Rosary                                                                                  white
 Memorial
 Jon 3:1-10/Lk 10:38-42 (462)   Pss Prop
+UID:20251007-khlu0jvtz6d@bun.example.com
 DTSTART:20251007T060000
 DTEND:20251007T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Weekday                                                                                                           green
 Jon 4:1-11/Lk 11:1-4 (463)
+UID:20251008-hvtgz33p8n@bun.example.com
 DTSTART:20251008T060000
 DTEND:20251008T060100
 END:VEVENT
@@ -1901,12 +2183,14 @@ BEGIN:VEVENT
 SUMMARY:      Thu     Weekday                                                                                           green/red/white
 [Saint Denis, Bishop, and Companions, Martyrs; Saint John Leonardi, Priest]
 Mal 3:13-20b/Lk 11:5-13 (464)
+UID:20251009-qwzo10s7z5i@bun.example.com
 DTSTART:20251009T060000
 DTEND:20251009T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                           green
 Jl 1:13-15; 2:1-2/Lk 11:15-26 (465)
+UID:20251010-tcp99peal69@bun.example.com
 DTSTART:20251010T060000
 DTEND:20251010T060100
 END:VEVENT
@@ -1914,18 +2198,21 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                       green/white/white
 [Saint John XXIII, Pope; BVM]
 Jl 4:12-21/Lk 11:27-28 (466)
+UID:20251011-aw85f2ijexi@bun.example.com
 DTSTART:20251011T060000
 DTEND:20251011T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    TWENTY-EIGHTH SUNDAY IN ORDINARY TIME                              green
 2 Kgs 5:14-17/2 Tm 2:8-13/Lk 17:11-19 (144)   Pss IV
+UID:20251012-nkd4jhz25e@bun.example.com
 DTSTART:20251012T060000
 DTEND:20251012T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                           green
 Rom 1:1-7/Lk 11:29-32 (467)
+UID:20251013-qo7nbb15s8@bun.example.com
 DTSTART:20251013T060000
 DTEND:20251013T060100
 END:VEVENT
@@ -1933,6 +2220,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                     green/red
 [Saint Callistus I, Pope and Martyr]
 Rom 1:16-25/Lk 11:37-41 (468)
+UID:20251014-e76h4i100j5@bun.example.com
 DTSTART:20251014T060000
 DTEND:20251014T060100
 END:VEVENT
@@ -1940,6 +2228,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Saint Teresa of Jesus, Virgin and Doctor of the Church                             white
 Memorial
 Rom 2:1-11/Lk 11:42-46 (469)
+UID:20251015-kpsbzmtf8q@bun.example.com
 DTSTART:20251015T060000
 DTEND:20251015T060100
 END:VEVENT
@@ -1947,6 +2236,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                       green/white/white
 [Saint Hedwig, Religious; Saint Margaret Mary Alacoque, Virgin]
 Rom 3:21-30/Lk 11:47-54 (470)
+UID:20251016-rwa5qegevz@bun.example.com
 DTSTART:20251016T060000
 DTEND:20251016T060100
 END:VEVENT
@@ -1954,6 +2244,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint Ignatius of Antioch, Bishop and Martyr                                                 red
 Memorial
 Rom 4:1-8/Lk 12:1-7 (471)
+UID:20251017-zcss3dm2ed@bun.example.com
 DTSTART:20251017T060000
 DTEND:20251017T060100
 END:VEVENT
@@ -1961,12 +2252,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saint Luke, Evangelist                                                                                        red
 Feast
 2 Tm 4:10-17b/Lk 10:1-9 (661)   Pss Prop
+UID:20251018-phbsgzd6mzp@bun.example.com
 DTSTART:20251018T060000
 DTEND:20251018T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    TWENTY-NINTH SUNDAY IN ORDINARY TIME                                 green 
 Ex 17:8-13/2 Tm 3:14—4:2/Lk 18:1-8 (147)   Pss I
+UID:20251019-ou88h1kuefc@bun.example.com
 DTSTART:20251019T060000
 DTEND:20251019T060100
 END:VEVENT
@@ -1974,12 +2267,14 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                 green/white
 [USA: Saint Paul of the Cross, Priest]
 Rom 4:20-25/Lk 12:13-21 (473)
+UID:20251020-lmcgq2od95@bun.example.com
 DTSTART:20251020T060000
 DTEND:20251020T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                           green
 Rom 5:12, 15b, 17-19, 20b-21/Lk 12:35-38 (474)
+UID:20251021-ih0hjt3upl@bun.example.com
 DTSTART:20251021T060000
 DTEND:20251021T060100
 END:VEVENT
@@ -1987,6 +2282,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                 green/white
 [Saint John Paul II, Pope]
 Rom 6:12-18/Lk 12:39-48 (475)
+UID:20251022-em68zqazfqb@bun.example.com
 DTSTART:20251022T060000
 DTEND:20251022T060100
 END:VEVENT
@@ -1994,6 +2290,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                 green/white
 [Saint John of Capistrano, Priest]
 Rom 6:19-23/Lk 12:49-53 (476)
+UID:20251023-zbmm0siizri@bun.example.com
 DTSTART:20251023T060000
 DTEND:20251023T060100
 END:VEVENT
@@ -2001,6 +2298,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                 green/white
 [Saint Anthony Mary Claret, Bishop]
 Rom 7:18-25a/Lk 12:54-59 (477)
+UID:20251024-kglwitifzu@bun.example.com
 DTSTART:20251024T060000
 DTEND:20251024T060100
 END:VEVENT
@@ -2008,18 +2306,21 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 Rom 8:1-11/Lk 13:1-9 (478)
+UID:20251025-tgqaym8l4be@bun.example.com
 DTSTART:20251025T060000
 DTEND:20251025T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    THIRTIETH SUNDAY IN ORDINARY TIME                                           green
  Sir 35:12-14, 16-18/2 Tm 4:6-8, 16-18/Lk 18:9-14 (150)   Pss II
+UID:20251026-qjodq4egzg@bun.example.com
 DTSTART:20251026T060000
 DTEND:20251026T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Weekday                                                                                                           green
 Rom 8:12-17/Lk 13:10-17 (479)
+UID:20251027-cll2ja69kar@bun.example.com
 DTSTART:20251027T060000
 DTEND:20251027T060100
 END:VEVENT
@@ -2027,30 +2328,35 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saints Simon and Jude, Apostles                                                                        red
 Feast
 Eph 2:19-22/Lk 6:12-16 (666)   Pss Prop
+UID:20251028-fp2c26upffj@bun.example.com
 DTSTART:20251028T060000
 DTEND:20251028T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Rom 8:26-30/Lk 13:22-30 (481)
+UID:20251029-1q7pexzyc6d@bun.example.com
 DTSTART:20251029T060000
 DTEND:20251029T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 Rom 8:31b-39/Lk 13:31-35 (482)
+UID:20251030-8cliqmm427r@bun.example.com
 DTSTART:20251030T060000
 DTEND:20251030T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                           green
 Rom 9:1-5/Lk 14:1-6 (483)
+UID:20251031-b4qho89odu@bun.example.com
 DTSTART:20251031T060000
 DTEND:20251031T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Sat      ALL SAINTS                                                                                                   white
 Solemnity        [not a Holyday of Obligation this year] Rv 7:2-4, 9-14/1 Jn 3:1-3/Mt 5:1-12a (667)   Pss Prop
+UID:20251101-9j4ih6qnxi@bun.example.com
 DTSTART:20251101T060000
 DTEND:20251101T060100
 END:VEVENT
@@ -2058,6 +2364,7 @@ BEGIN:VEVENT
 SUMMARY:      SUN    THE COMMEMORATION OF ALL THE                     violet or white or black
 FAITHFUL DEPARTED (All Souls’ Day)
 Any readings from no. 668 or from the Masses for the Dead (1011-1016)   Pss Prop
+UID:20251102-zcpyd4vvbcb@bun.example.com
 DTSTART:20251102T060000
 DTEND:20251102T060100
 END:VEVENT
@@ -2065,6 +2372,7 @@ BEGIN:VEVENT
 SUMMARY:      Mon    Weekday (Thirty-First Week in Ordinary Time)                               green/white
 [Saint Martin de Porres, Religious]
 Rom 11:29-36/Lk 14:12-14 (485)   Pss III
+UID:20251103-copx6ueucys@bun.example.com
 DTSTART:20251103T060000
 DTEND:20251103T060100
 END:VEVENT
@@ -2072,24 +2380,28 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Saint Charles Borromeo, Bishop                                                                    white
 Memorial
 Rom 12:5-16b/Lk 14:15-24 (486)
+UID:20251104-j3j9ci1kp1@bun.example.com
 DTSTART:20251104T060000
 DTEND:20251104T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Wed    Weekday                                                                                                           green
 Rom 13:8-10/Lk 14:25-33 (487)
+UID:20251105-03sxlk6953qh@bun.example.com
 DTSTART:20251105T060000
 DTEND:20251105T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Thu     Weekday                                                                                                           green
 Rom 14:7-12/Lk 15:1-10 (488)
+UID:20251106-csxchyjz2eo@bun.example.com
 DTSTART:20251106T060000
 DTEND:20251106T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Fri       Weekday                                                                                                           green
 Rom 15:14-21/Lk 16:1-8 (489)
+UID:20251107-jwa5d1olao@bun.example.com
 DTSTART:20251107T060000
 DTEND:20251107T060100
 END:VEVENT
@@ -2097,6 +2409,7 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Weekday                                                                                                 green/white
 [BVM]
 Rom 16:3-9, 16, 22-27/Lk 16:9-15 (490)
+UID:20251108-jz9by5r137j@bun.example.com
 DTSTART:20251108T060000
 DTEND:20251108T060100
 END:VEVENT
@@ -2104,6 +2417,7 @@ BEGIN:VEVENT
 SUMMARY:      SUN    THE DEDICATION OF THE LATERAN BASILICA                               white
 Feast
 Ez 47:1-2, 8-9, 12/1 Cor 3:9c-11, 16-17/Jn 2:13-22 (671)   Pss Prop
+UID:20251109-8wo1v01zrjf@bun.example.com
 DTSTART:20251109T060000
 DTEND:20251109T060100
 END:VEVENT
@@ -2112,6 +2426,7 @@ SUMMARY:    Mon    Saint Leo the Great, Pope and Doctor of the Church           
 (Thirty-Second Week in Ordinary Time)
 Memorial
 Wis 1:1-7/Lk 17:1-6 (491)   Pss IV
+UID:20251110-ros7yvermj@bun.example.com
 DTSTART:20251110T060000
 DTEND:20251110T060100
 END:VEVENT
@@ -2119,6 +2434,7 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Saint Martin of Tours, Bishop                                                                        white
 Memorial
 Wis 2:23—3:9/Lk 17:7-10 (492)   Pss Prop
+UID:20251111-xf68a1mrdxf@bun.example.com
 DTSTART:20251111T060000
 DTEND:20251111T060100
 END:VEVENT
@@ -2126,6 +2442,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Saint Josaphat, Bishop and Martyr                                                                   red
 Memorial
 Wis 6:1-11/Lk 17:11-19 (493)
+UID:20251112-t0pkg9ike3@bun.example.com
 DTSTART:20251112T060000
 DTEND:20251112T060100
 END:VEVENT
@@ -2133,12 +2450,14 @@ BEGIN:VEVENT
 SUMMARY:    Thu     USA: Saint Frances Xavier Cabrini, Virgin                                                  white
 Memorial
 Wis 7:22b—8:1/Lk 17:20-25 (494)
+UID:20251113-nbvmycf9fji@bun.example.com
 DTSTART:20251113T060000
 DTEND:20251113T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                           green
 Wis 13:1-9/Lk 17:26-37 (495)
+UID:20251114-7hqlbf9awpw@bun.example.com
 DTSTART:20251114T060000
 DTEND:20251114T060100
 END:VEVENT
@@ -2146,12 +2465,14 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                       green/white/white
 [Saint Albert the Great, Bishop and Doctor of the Church; BVM]
 Wis 18:14-16; 19:6-9/Lk 18:1-8 (496)
+UID:20251115-f6f42q6868d@bun.example.com
 DTSTART:20251115T060000
 DTEND:20251115T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    THIRTY-THIRD SUNDAY IN ORDINARY TIME                                   green
  Mal 3:19-20a/2 Thes 3:7-12/Lk 21:5-19 (159)   Pss I
+UID:20251116-hvbt63wgqfv@bun.example.com
 DTSTART:20251116T060000
 DTEND:20251116T060100
 END:VEVENT
@@ -2159,6 +2480,7 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Saint Elizabeth of Hungary, Religious                                                           white
 Memorial
 1 Mc 1:10-15, 41-43, 54-57, 62-63/Lk 18:35-43 (497)
+UID:20251117-adtkutoqdio@bun.example.com
 DTSTART:20251117T060000
 DTEND:20251117T060100
 END:VEVENT
@@ -2167,18 +2489,21 @@ SUMMARY:    Tue     Weekday                                                     
 [The Dedication of the Basilicas of Saints Peter and Paul, Apostles; USA: Saint Rose Philippine Duchesne, Virgin]
 2 Mc 6:18-31/Lk 19:1-10 (498)
 or, for the Optional Memorial of the Dedication, Acts 28:11-16, 30-31/Mt 14:22-33 (679)
+UID:20251118-mesza81gl1a@bun.example.com
 DTSTART:20251118T060000
 DTEND:20251118T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 2 Mc 7:1, 20-31/Lk 19:11-28 (499)
+UID:20251119-8aar6em1i1r@bun.example.com
 DTSTART:20251119T060000
 DTEND:20251119T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Weekday                                                                                                           green
 1 Mc 2:15-29/Lk 19:41-44 (500)
+UID:20251120-pztqi3qv2o8@bun.example.com
 DTSTART:20251120T060000
 DTEND:20251120T060100
 END:VEVENT
@@ -2186,6 +2511,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       The Presentation of the Blessed Virgin Mary                                               white
 Memorial
 1 Mc 4:36-37, 52-59/Lk 19:45-48 (501)
+UID:20251121-a03zlnp09ir@bun.example.com
 DTSTART:20251121T060000
 DTEND:20251121T060100
 END:VEVENT
@@ -2193,6 +2519,7 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saint Cecilia, Virgin and Martyr                                                                       red
 Memorial
 1 Mc 6:1-13/Lk 20:27-40 (502)
+UID:20251122-5nwby3m6den@bun.example.com
 DTSTART:20251122T060000
 DTEND:20251122T060100
 END:VEVENT
@@ -2200,6 +2527,7 @@ BEGIN:VEVENT
 SUMMARY:    SUN    OUR LORD JESUS CHRIST, KING OF THE UNIVERSE                      white
 Solemnity
 2 Sm 5:1-3/Col 1:12-20/Lk 23:35-43 (162)   Pss Prop
+UID:20251123-sdtg1vuc48@bun.example.com
 DTSTART:20251123T060000
 DTEND:20251123T060100
 END:VEVENT
@@ -2208,6 +2536,7 @@ SUMMARY:    Mon    Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs    
 (Thirty-Fourth or Last Week in Ordinary Time)
 Memorial
 Dn 1:1-6, 8-20/Lk 21:1-4 (503)   Pss II
+UID:20251124-uphan7frokp@bun.example.com
 DTSTART:20251124T060000
 DTEND:20251124T060100
 END:VEVENT
@@ -2215,12 +2544,14 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Weekday                                                                                                     green/red
 [Saint Catherine of Alexandria, Virgin and Martyr]
 Dn 2:31-45/Lk 21:5-11 (504)
+UID:20251125-r9p05ytel1@bun.example.com
 DTSTART:20251125T060000
 DTEND:20251125T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Weekday                                                                                                           green
 Dn 5:1-6, 13-14, 16-17, 23-28/Lk 21:12-19 (505)
+UID:20251126-l2wwgumktpg@bun.example.com
 DTSTART:20251126T060000
 DTEND:20251126T060100
 END:VEVENT
@@ -2229,12 +2560,14 @@ SUMMARY:    Thu     Weekday                                                     
 [USA: Thanksgiving Day]
 Dn 6:12-28/Lk 21:20-28 (506)
 or, for Thanksgiving Day, any readings from the Mass “In Thanksgiving to God” (943-947)
+UID:20251127-wu8p9xqun5l@bun.example.com
 DTSTART:20251127T060000
 DTEND:20251127T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Weekday                                                                                                           green
 Dn 7:2-14/Lk 21:29-33 (507)
+UID:20251128-hpfl39sxynj@bun.example.com
 DTSTART:20251128T060000
 DTEND:20251128T060100
 END:VEVENT
@@ -2242,24 +2575,28 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Weekday                                                                                                 green/white
 [BVM]
 Dn 7:15-27/Lk 21:34-36 (508)
+UID:20251129-enqdx8pqo27@bun.example.com
 DTSTART:20251129T060000
 DTEND:20251129T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    FIRST SUNDAY OF ADVENT                                                                     violet 
 Is 2:1-5/Rom 13:11-14/Mt 24:37-44 (1)   Pss I
+UID:20251130-qbq0ggec9u@bun.example.com
 DTSTART:20251130T060000
 DTEND:20251130T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Mon    Advent Weekday                                                                                             violet
 Is 4:2-6 (second choice)/Mt 8:5-11 (175)
+UID:20251201-c8vuvjjlnvv@bun.example.com
 DTSTART:20251201T060000
 DTEND:20251201T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Tue     Advent Weekday                                                                                             violet
 Is 11:1-10/Lk 10:21-24 (176)
+UID:20251202-8tukww6vlbp@bun.example.com
 DTSTART:20251202T060000
 DTEND:20251202T060100
 END:VEVENT
@@ -2267,6 +2604,7 @@ BEGIN:VEVENT
 SUMMARY:      Wed    Saint Francis Xavier, Priest                                                                            white
 Memorial
 Is 25:6-10a/Mt 15:29-37 (177)
+UID:20251203-svr2mputy6r@bun.example.com
 DTSTART:20251203T060000
 DTEND:20251203T060100
 END:VEVENT
@@ -2274,12 +2612,14 @@ BEGIN:VEVENT
 SUMMARY:      Thu     Advent Weekday                                                                                   violet/white
 [Saint John Damascene, Priest and Doctor of the Church]
 Is 26:1-6/Mt 7:21, 24-27 (178)
+UID:20251204-xtqmr25ocbg@bun.example.com
 DTSTART:20251204T060000
 DTEND:20251204T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      Fri       Advent Weekday                                                                                             violet
 Is 29:17-24/Mt 9:27-31 (179)
+UID:20251205-3nolfnhdd4p@bun.example.com
 DTSTART:20251205T060000
 DTEND:20251205T060100
 END:VEVENT
@@ -2287,12 +2627,14 @@ BEGIN:VEVENT
 SUMMARY:      Sat      Advent Weekday                                                                                   violet/white
 [Saint Nicholas, Bishop]
 Is 30:19-21, 23-26/Mt 9:35—10:1, 5a, 6-8 (180)
+UID:20251206-xke3xah5iz@bun.example.com
 DTSTART:20251206T060000
 DTEND:20251206T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:      SUN    SECOND SUNDAY OF ADVENT                                                                violet
  Is 11:1-10/Rom 15:4-9/Mt 3:1-12 (4)   Pss II
+UID:20251207-uuxrgs3xrue@bun.example.com
 DTSTART:20251207T060000
 DTEND:20251207T060100
 END:VEVENT
@@ -2302,6 +2644,7 @@ BLESSED VIRGIN MARY
 (Patronal Feastday of the United States of America)
 Solemnity        [Holyday of Obligation]
 Gn 3:9-15, 20/Eph 1:3-6, 11-12/Lk 1:26-38 (689)   Pss Prop
+UID:20251208-z0pjb8hdqef@bun.example.com
 DTSTART:20251208T060000
 DTEND:20251208T060100
 END:VEVENT
@@ -2309,6 +2652,7 @@ BEGIN:VEVENT
 SUMMARY:      Tue     Advent Weekday                                                                                   violet/white
 [Saint Juan Diego Cuauhtlatoatzin]
 Is 40:1-11/Mt 18:12-14 (182)
+UID:20251209-5sziboi0kzu@bun.example.com
 DTSTART:20251209T060000
 DTEND:20251209T060100
 END:VEVENT
@@ -2316,6 +2660,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Advent Weekday                                                                                   violet/white
 [Our Lady of Loreto]
 Is 40:25-31/Mt 11:28-30 (183)
+UID:20251210-pdfrbns5vz@bun.example.com
 DTSTART:20251210T060000
 DTEND:20251210T060100
 END:VEVENT
@@ -2323,6 +2668,7 @@ BEGIN:VEVENT
 SUMMARY:    Thu     Advent Weekday                                                                                   violet/white
 [Saint Damasus I, Pope]
 Is 41:13-20/Mt 11:11-15 (184)
+UID:20251211-p8mlyvcjy48@bun.example.com
 DTSTART:20251211T060000
 DTEND:20251211T060100
 END:VEVENT
@@ -2331,6 +2677,7 @@ SUMMARY:    Fri       USA: Our Lady of Guadalupe                                
 Feast
 Zec 2:14-17 or Rv 11:19a; 12:1-6a, 10ab/Lk 1:26-38 or Lk 1:39-47 (690A),
 or any readings from the Common of the Blessed Virgin Mary (707-712)   Pss Prop
+UID:20251212-irk9eetc84n@bun.example.com
 DTSTART:20251212T060000
 DTEND:20251212T060100
 END:VEVENT
@@ -2338,60 +2685,70 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saint Lucy, Virgin and Martyr                                                                          red
 Memorial
 Sir 48:1-4, 9-11/Mt 17:9a, 10-13 (186)
+UID:20251213-17873wft19l@bun.example.com
 DTSTART:20251213T060000
 DTEND:20251213T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    THIRD SUNDAY OF ADVENT                                                        violet or rose
  Is 35:1-6a, 10/Jas 5:7-10/Mt 11:2-11 (7)   Pss III
+UID:20251214-2c80raewp7k@bun.example.com
 DTSTART:20251214T060000
 DTEND:20251214T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Advent Weekday                                                                                             violet
 Nm 24:2-7, 15-17a/Mt 21:23-27 (187)
+UID:20251215-jsmblkhvo6r@bun.example.com
 DTSTART:20251215T060000
 DTEND:20251215T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Advent Weekday                                                                                             violet
 Zep 3:1-2, 9-13/Mt 21:28-32 (188)
+UID:20251216-pgl7ysarjdr@bun.example.com
 DTSTART:20251216T060000
 DTEND:20251216T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Advent Weekday                                                                                             violet
 Gn 49:2, 8-10/Mt 1:1-17 (193)
+UID:20251217-epg9iq6ng7@bun.example.com
 DTSTART:20251217T060000
 DTEND:20251217T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Thu     Advent Weekday                                                                                             violet
 Jer 23:5-8/Mt 1:18-25 (194)
+UID:20251218-x74l3baylje@bun.example.com
 DTSTART:20251218T060000
 DTEND:20251218T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Fri       Advent Weekday                                                                                             violet
 Jgs 13:2-7, 24-25a/Lk 1:5-25 (195)
+UID:20251219-hc13hton25o@bun.example.com
 DTSTART:20251219T060000
 DTEND:20251219T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Sat      Advent Weekday                                                                                             violet
 Is 7:10-14/Lk 1:26-38 (196)
+UID:20251220-ulo5xfga9l@bun.example.com
 DTSTART:20251220T060000
 DTEND:20251220T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    SUN    FOURTH SUNDAY OF ADVENT                                                                violet
  Is 7:10-14/Rom 1:1-7/Mt 1:18-24 (10)   Pss IV
+UID:20251221-wmkyi11w6c@bun.example.com
 DTSTART:20251221T060000
 DTEND:20251221T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Mon    Advent Weekday                                                                                             violet
 1 Sm 1:24-28/Lk 1:46-56 (198)
+UID:20251222-jatg0cdvele@bun.example.com
 DTSTART:20251222T060000
 DTEND:20251222T060100
 END:VEVENT
@@ -2399,12 +2756,14 @@ BEGIN:VEVENT
 SUMMARY:    Tue     Advent Weekday                                                                                             violet
 [Saint John of Kanty, Priest]
 Mal 3:1-4, 23-24/Lk 1:57-66 (199)
+UID:20251223-81ywndq1fau@bun.example.com
 DTSTART:20251223T060000
 DTEND:20251223T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Wed    Advent Weekday                                                                                             violet
 Morning: 2 Sm 7:1-5, 8b-12, 14a, 16/Lk 1:67-79 (200)
+UID:20251224-3tqegusjgtf@bun.example.com
 DTSTART:20251224T060000
 DTEND:20251224T060100
 END:VEVENT
@@ -2415,6 +2774,7 @@ Vigil: Is 62:1-5/Acts 13:16-17, 22-25/Mt 1:1-25 or 1:18-25 (13)
 Night: Is 9:1-6/Ti 2:11-14/Lk 2:1-14 (14)
 Dawn: Is 62:11-12/Ti 3:4-7/Lk 2:15-20 (15)
 Day: Is 52:7-10/Heb 1:1-6/Jn 1:1-18 or 1:1-5, 9-14 (16)   Pss Prop
+UID:20251225-6zfddkllnax@bun.example.com
 DTSTART:20251225T060000
 DTEND:20251225T060100
 END:VEVENT
@@ -2422,6 +2782,7 @@ BEGIN:VEVENT
 SUMMARY:    Fri       Saint Stephen, the First Martyr                                                                         red
 Feast
 Acts 6:8-10; 7:54-59/Mt 10:17-22 (696)   Pss Prop
+UID:20251226-yc7d79y5t6@bun.example.com
 DTSTART:20251226T060000
 DTEND:20251226T060100
 END:VEVENT
@@ -2429,6 +2790,7 @@ BEGIN:VEVENT
 SUMMARY:    Sat      Saint John, Apostle and Evangelist                                                                white
 Feast
 1 Jn 1:1-4/Jn 20:1a, 2-8 (697)   Pss Prop
+UID:20251227-hrp6gaubg1c@bun.example.com
 DTSTART:20251227T060000
 DTEND:20251227T060100
 END:VEVENT
@@ -2436,6 +2798,7 @@ BEGIN:VEVENT
 SUMMARY:    SUN    THE HOLY FAMILY OF JESUS, MARY AND JOSEPH                        white
 Feast
 Sir 3:2-6, 12-14/Col 3:12-21 or 3:12-17/Mt 2:13-15, 19-23 (17)   Pss Prop
+UID:20251228-uut07dzjbzs@bun.example.com
 DTSTART:20251228T060000
 DTEND:20251228T060100
 END:VEVENT
@@ -2443,12 +2806,14 @@ BEGIN:VEVENT
 SUMMARY:    Mon    Fifth Day within the Octave of the Nativity of the Lord                              white
 [Saint Thomas Becket, Bishop and Martyr]
 1 Jn 2:3-11/Lk 2:22-35 (202)   Pss Prop
+UID:20251229-ykxko1gf2bo@bun.example.com
 DTSTART:20251229T060000
 DTEND:20251229T060100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:    Tue     Sixth Day within the Octave of the Nativity of the Lord                             white
  1 Jn 2:12-17/Lk 2:36-40 (203)   Pss Prop
+UID:20251230-2reetnreok@bun.example.com
 DTSTART:20251230T060000
 DTEND:20251230T060100
 END:VEVENT
@@ -2456,6 +2821,7 @@ BEGIN:VEVENT
 SUMMARY:    Wed    Seventh Day within the Octave of the Nativity of the Lord                         white
 [Saint Sylvester I, Pope]
 1 Jn 2:18-21/Jn 1:1-18 (204)   Pss Prop
+UID:20251231-ekeaul7tyda@bun.example.com
 DTSTART:20251231T060000
 DTEND:20251231T060100
 END:VEVENT
